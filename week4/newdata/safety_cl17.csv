@@ -1,0 +1,749 @@
+start_date,end_date,cluster2017,timeframe,cluster2017_nf,Crimes_pt1_property_per1000,Crimes_pt1_violent_per1000,indc
+1-Jan-00,31-Dec-00,"Kalorama Heights, Adams Morgan, Lanier Heights",2000,Cluster 1,52,8.7,1
+1-Jan-01,31-Dec-01,"Kalorama Heights, Adams Morgan, Lanier Heights",2001,Cluster 1,59,12,1
+1-Jan-02,31-Dec-02,"Kalorama Heights, Adams Morgan, Lanier Heights",2002,Cluster 1,57,14,1
+1-Jan-03,31-Dec-03,"Kalorama Heights, Adams Morgan, Lanier Heights",2003,Cluster 1,61,12,1
+1-Jan-04,31-Dec-04,"Kalorama Heights, Adams Morgan, Lanier Heights",2004,Cluster 1,42,13,1
+1-Jan-05,31-Dec-05,"Kalorama Heights, Adams Morgan, Lanier Heights",2005,Cluster 1,43,12,1
+1-Jan-06,31-Dec-06,"Kalorama Heights, Adams Morgan, Lanier Heights",2006,Cluster 1,49,11,1
+1-Jan-07,31-Dec-07,"Kalorama Heights, Adams Morgan, Lanier Heights",2007,Cluster 1,47,12,1
+1-Jan-08,31-Dec-08,"Kalorama Heights, Adams Morgan, Lanier Heights",2008,Cluster 1,41,11,1
+1-Jan-09,31-Dec-09,"Kalorama Heights, Adams Morgan, Lanier Heights",2009,Cluster 1,39,9.7,1
+1-Jan-10,31-Dec-10,"Kalorama Heights, Adams Morgan, Lanier Heights",2010,Cluster 1,36,8.9,1
+1-Jan-11,31-Dec-11,"Kalorama Heights, Adams Morgan, Lanier Heights",2011,Cluster 1,41,9.3,1
+1-Jan-12,31-Dec-12,"Kalorama Heights, Adams Morgan, Lanier Heights",2012,Cluster 1,45,9.2,1
+1-Jan-13,31-Dec-13,"Kalorama Heights, Adams Morgan, Lanier Heights",2013,Cluster 1,44,8,1
+1-Jan-14,31-Dec-14,"Kalorama Heights, Adams Morgan, Lanier Heights",2014,Cluster 1,48,4.6,1
+1-Jan-15,31-Dec-15,"Kalorama Heights, Adams Morgan, Lanier Heights",2015,Cluster 1,42,6.3,1
+1-Jan-16,31-Dec-16,"Kalorama Heights, Adams Morgan, Lanier Heights",2016,Cluster 1,41,4.8,1
+1-Jan-00,31-Dec-00,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2000,Cluster 2,41,16,1
+1-Jan-01,31-Dec-01,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2001,Cluster 2,44,15,1
+1-Jan-02,31-Dec-02,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2002,Cluster 2,49,18,1
+1-Jan-03,31-Dec-03,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2003,Cluster 2,46,21,1
+1-Jan-04,31-Dec-04,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2004,Cluster 2,40,16,1
+1-Jan-05,31-Dec-05,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2005,Cluster 2,35,17,1
+1-Jan-06,31-Dec-06,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2006,Cluster 2,44,17,1
+1-Jan-07,31-Dec-07,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2007,Cluster 2,43,17,1
+1-Jan-08,31-Dec-08,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2008,Cluster 2,44,17,1
+1-Jan-09,31-Dec-09,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2009,Cluster 2,45,15,1
+1-Jan-10,31-Dec-10,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2010,Cluster 2,42,13,1
+1-Jan-11,31-Dec-11,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2011,Cluster 2,47,13,1
+1-Jan-12,31-Dec-12,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2012,Cluster 2,49,11,1
+1-Jan-13,31-Dec-13,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2013,Cluster 2,57,12,1
+1-Jan-14,31-Dec-14,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2014,Cluster 2,60,8.9,1
+1-Jan-15,31-Dec-15,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2015,Cluster 2,58,9.9,1
+1-Jan-16,31-Dec-16,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",2016,Cluster 2,52,8.2,1
+1-Jan-00,31-Dec-00,"Howard University, Le Droit Park, Cardozo/Shaw",2000,Cluster 3,126,29,1
+1-Jan-01,31-Dec-01,"Howard University, Le Droit Park, Cardozo/Shaw",2001,Cluster 3,110,31,1
+1-Jan-02,31-Dec-02,"Howard University, Le Droit Park, Cardozo/Shaw",2002,Cluster 3,111,27,1
+1-Jan-03,31-Dec-03,"Howard University, Le Droit Park, Cardozo/Shaw",2003,Cluster 3,117,24,1
+1-Jan-04,31-Dec-04,"Howard University, Le Droit Park, Cardozo/Shaw",2004,Cluster 3,103,23,1
+1-Jan-05,31-Dec-05,"Howard University, Le Droit Park, Cardozo/Shaw",2005,Cluster 3,95,25,1
+1-Jan-06,31-Dec-06,"Howard University, Le Droit Park, Cardozo/Shaw",2006,Cluster 3,95,27,1
+1-Jan-07,31-Dec-07,"Howard University, Le Droit Park, Cardozo/Shaw",2007,Cluster 3,94,26,1
+1-Jan-08,31-Dec-08,"Howard University, Le Droit Park, Cardozo/Shaw",2008,Cluster 3,98,24,1
+1-Jan-09,31-Dec-09,"Howard University, Le Droit Park, Cardozo/Shaw",2009,Cluster 3,92,21,1
+1-Jan-10,31-Dec-10,"Howard University, Le Droit Park, Cardozo/Shaw",2010,Cluster 3,74,20,1
+1-Jan-11,31-Dec-11,"Howard University, Le Droit Park, Cardozo/Shaw",2011,Cluster 3,80,25,1
+1-Jan-12,31-Dec-12,"Howard University, Le Droit Park, Cardozo/Shaw",2012,Cluster 3,107,22,1
+1-Jan-13,31-Dec-13,"Howard University, Le Droit Park, Cardozo/Shaw",2013,Cluster 3,105,22,1
+1-Jan-14,31-Dec-14,"Howard University, Le Droit Park, Cardozo/Shaw",2014,Cluster 3,116,16,1
+1-Jan-15,31-Dec-15,"Howard University, Le Droit Park, Cardozo/Shaw",2015,Cluster 3,112,14,1
+1-Jan-16,31-Dec-16,"Howard University, Le Droit Park, Cardozo/Shaw",2016,Cluster 3,136,14,1
+1-Jan-00,31-Dec-00,"Georgetown, Burleith/Hillandale",2000,Cluster 4,63,7.6,1
+1-Jan-01,31-Dec-01,"Georgetown, Burleith/Hillandale",2001,Cluster 4,63,7.3,1
+1-Jan-02,31-Dec-02,"Georgetown, Burleith/Hillandale",2002,Cluster 4,51,6.8,1
+1-Jan-03,31-Dec-03,"Georgetown, Burleith/Hillandale",2003,Cluster 4,51,6.6,1
+1-Jan-04,31-Dec-04,"Georgetown, Burleith/Hillandale",2004,Cluster 4,52,6.2,1
+1-Jan-05,31-Dec-05,"Georgetown, Burleith/Hillandale",2005,Cluster 4,54,5.3,1
+1-Jan-06,31-Dec-06,"Georgetown, Burleith/Hillandale",2006,Cluster 4,48,6.4,1
+1-Jan-07,31-Dec-07,"Georgetown, Burleith/Hillandale",2007,Cluster 4,53,7,1
+1-Jan-08,31-Dec-08,"Georgetown, Burleith/Hillandale",2008,Cluster 4,56,4.5,1
+1-Jan-09,31-Dec-09,"Georgetown, Burleith/Hillandale",2009,Cluster 4,53,4.3,1
+1-Jan-10,31-Dec-10,"Georgetown, Burleith/Hillandale",2010,Cluster 4,49,6.1,1
+1-Jan-11,31-Dec-11,"Georgetown, Burleith/Hillandale",2011,Cluster 4,53,4.5,1
+1-Jan-12,31-Dec-12,"Georgetown, Burleith/Hillandale",2012,Cluster 4,55,3,1
+1-Jan-13,31-Dec-13,"Georgetown, Burleith/Hillandale",2013,Cluster 4,56,3.2,1
+1-Jan-14,31-Dec-14,"Georgetown, Burleith/Hillandale",2014,Cluster 4,63,3.2,1
+1-Jan-15,31-Dec-15,"Georgetown, Burleith/Hillandale",2015,Cluster 4,62,2.9,1
+1-Jan-16,31-Dec-16,"Georgetown, Burleith/Hillandale",2016,Cluster 4,56,3.3,1
+1-Jan-00,31-Dec-00,"West End, Foggy Bottom, GWU",2000,Cluster 5,65,5.6,1
+1-Jan-01,31-Dec-01,"West End, Foggy Bottom, GWU",2001,Cluster 5,48,5.5,1
+1-Jan-02,31-Dec-02,"West End, Foggy Bottom, GWU",2002,Cluster 5,45,5.1,1
+1-Jan-03,31-Dec-03,"West End, Foggy Bottom, GWU",2003,Cluster 5,41,4.7,1
+1-Jan-04,31-Dec-04,"West End, Foggy Bottom, GWU",2004,Cluster 5,35,3.4,1
+1-Jan-05,31-Dec-05,"West End, Foggy Bottom, GWU",2005,Cluster 5,33,2.8,1
+1-Jan-06,31-Dec-06,"West End, Foggy Bottom, GWU",2006,Cluster 5,29,1.9,1
+1-Jan-07,31-Dec-07,"West End, Foggy Bottom, GWU",2007,Cluster 5,28,2.1,1
+1-Jan-08,31-Dec-08,"West End, Foggy Bottom, GWU",2008,Cluster 5,31,3.3,1
+1-Jan-09,31-Dec-09,"West End, Foggy Bottom, GWU",2009,Cluster 5,25,3.9,1
+1-Jan-10,31-Dec-10,"West End, Foggy Bottom, GWU",2010,Cluster 5,23,3,1
+1-Jan-11,31-Dec-11,"West End, Foggy Bottom, GWU",2011,Cluster 5,29,3.2,1
+1-Jan-12,31-Dec-12,"West End, Foggy Bottom, GWU",2012,Cluster 5,27,2.9,1
+1-Jan-13,31-Dec-13,"West End, Foggy Bottom, GWU",2013,Cluster 5,27,1.7,1
+1-Jan-14,31-Dec-14,"West End, Foggy Bottom, GWU",2014,Cluster 5,32,2.1,1
+1-Jan-15,31-Dec-15,"West End, Foggy Bottom, GWU",2015,Cluster 5,35,2.6,1
+1-Jan-16,31-Dec-16,"West End, Foggy Bottom, GWU",2016,Cluster 5,30,3,1
+1-Jan-00,31-Dec-00,"Dupont Circle, Connecticut Avenue/K Street",2000,Cluster 6,154,16,1
+1-Jan-01,31-Dec-01,"Dupont Circle, Connecticut Avenue/K Street",2001,Cluster 6,131,15,1
+1-Jan-02,31-Dec-02,"Dupont Circle, Connecticut Avenue/K Street",2002,Cluster 6,127,16,1
+1-Jan-03,31-Dec-03,"Dupont Circle, Connecticut Avenue/K Street",2003,Cluster 6,114,16,1
+1-Jan-04,31-Dec-04,"Dupont Circle, Connecticut Avenue/K Street",2004,Cluster 6,91,15,1
+1-Jan-05,31-Dec-05,"Dupont Circle, Connecticut Avenue/K Street",2005,Cluster 6,92,12,1
+1-Jan-06,31-Dec-06,"Dupont Circle, Connecticut Avenue/K Street",2006,Cluster 6,85,13,1
+1-Jan-07,31-Dec-07,"Dupont Circle, Connecticut Avenue/K Street",2007,Cluster 6,86,13,1
+1-Jan-08,31-Dec-08,"Dupont Circle, Connecticut Avenue/K Street",2008,Cluster 6,96,13,1
+1-Jan-09,31-Dec-09,"Dupont Circle, Connecticut Avenue/K Street",2009,Cluster 6,96,11,1
+1-Jan-10,31-Dec-10,"Dupont Circle, Connecticut Avenue/K Street",2010,Cluster 6,82,12,1
+1-Jan-11,31-Dec-11,"Dupont Circle, Connecticut Avenue/K Street",2011,Cluster 6,91,14,1
+1-Jan-12,31-Dec-12,"Dupont Circle, Connecticut Avenue/K Street",2012,Cluster 6,98,11,1
+1-Jan-13,31-Dec-13,"Dupont Circle, Connecticut Avenue/K Street",2013,Cluster 6,85,8.9,1
+1-Jan-14,31-Dec-14,"Dupont Circle, Connecticut Avenue/K Street",2014,Cluster 6,92,6.8,1
+1-Jan-15,31-Dec-15,"Dupont Circle, Connecticut Avenue/K Street",2015,Cluster 6,95,7.4,1
+1-Jan-16,31-Dec-16,"Dupont Circle, Connecticut Avenue/K Street",2016,Cluster 6,97,7.2,1
+1-Jan-00,31-Dec-00,"Shaw, Logan Circle",2000,Cluster 7,51,16,1
+1-Jan-01,31-Dec-01,"Shaw, Logan Circle",2001,Cluster 7,55,22,1
+1-Jan-02,31-Dec-02,"Shaw, Logan Circle",2002,Cluster 7,65,16,1
+1-Jan-03,31-Dec-03,"Shaw, Logan Circle",2003,Cluster 7,54,15,1
+1-Jan-04,31-Dec-04,"Shaw, Logan Circle",2004,Cluster 7,58,14,1
+1-Jan-05,31-Dec-05,"Shaw, Logan Circle",2005,Cluster 7,47,15,1
+1-Jan-06,31-Dec-06,"Shaw, Logan Circle",2006,Cluster 7,54,15,1
+1-Jan-07,31-Dec-07,"Shaw, Logan Circle",2007,Cluster 7,49,15,1
+1-Jan-08,31-Dec-08,"Shaw, Logan Circle",2008,Cluster 7,52,11,1
+1-Jan-09,31-Dec-09,"Shaw, Logan Circle",2009,Cluster 7,49,12,1
+1-Jan-10,31-Dec-10,"Shaw, Logan Circle",2010,Cluster 7,39,11,1
+1-Jan-11,31-Dec-11,"Shaw, Logan Circle",2011,Cluster 7,45,11,1
+1-Jan-12,31-Dec-12,"Shaw, Logan Circle",2012,Cluster 7,56,8.4,1
+1-Jan-13,31-Dec-13,"Shaw, Logan Circle",2013,Cluster 7,50,8.5,1
+1-Jan-14,31-Dec-14,"Shaw, Logan Circle",2014,Cluster 7,59,7.2,1
+1-Jan-15,31-Dec-15,"Shaw, Logan Circle",2015,Cluster 7,56,7.8,1
+1-Jan-16,31-Dec-16,"Shaw, Logan Circle",2016,Cluster 7,68,6.8,1
+1-Jan-00,31-Dec-00,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2000,Cluster 8,245,43,1
+1-Jan-01,31-Dec-01,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2001,Cluster 8,214,41,1
+1-Jan-02,31-Dec-02,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2002,Cluster 8,179,35,1
+1-Jan-03,31-Dec-03,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2003,Cluster 8,138,35,1
+1-Jan-04,31-Dec-04,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2004,Cluster 8,111,24,1
+1-Jan-05,31-Dec-05,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2005,Cluster 8,105,23,1
+1-Jan-06,31-Dec-06,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2006,Cluster 8,109,24,1
+1-Jan-07,31-Dec-07,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2007,Cluster 8,113,23,1
+1-Jan-08,31-Dec-08,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2008,Cluster 8,111,21,1
+1-Jan-09,31-Dec-09,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2009,Cluster 8,102,18,1
+1-Jan-10,31-Dec-10,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2010,Cluster 8,81,18,1
+1-Jan-11,31-Dec-11,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2011,Cluster 8,95,20,1
+1-Jan-12,31-Dec-12,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2012,Cluster 8,117,18,1
+1-Jan-13,31-Dec-13,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2013,Cluster 8,111,16,1
+1-Jan-14,31-Dec-14,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2014,Cluster 8,141,14,1
+1-Jan-15,31-Dec-15,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2015,Cluster 8,127,16,1
+1-Jan-16,31-Dec-16,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",2016,Cluster 8,155,15,1
+1-Jan-00,31-Dec-00,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2000,Cluster 9,67,17,1
+1-Jan-01,31-Dec-01,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2001,Cluster 9,69,15,1
+1-Jan-02,31-Dec-02,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2002,Cluster 9,56,14,1
+1-Jan-03,31-Dec-03,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2003,Cluster 9,48,15,1
+1-Jan-04,31-Dec-04,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2004,Cluster 9,43,13,1
+1-Jan-05,31-Dec-05,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2005,Cluster 9,47,13,1
+1-Jan-06,31-Dec-06,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2006,Cluster 9,51,16,1
+1-Jan-07,31-Dec-07,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2007,Cluster 9,44,17,1
+1-Jan-08,31-Dec-08,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2008,Cluster 9,38,13,1
+1-Jan-09,31-Dec-09,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2009,Cluster 9,35,10,1
+1-Jan-10,31-Dec-10,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2010,Cluster 9,34,9.6,1
+1-Jan-11,31-Dec-11,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2011,Cluster 9,37,11,1
+1-Jan-12,31-Dec-12,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2012,Cluster 9,42,8.3,1
+1-Jan-13,31-Dec-13,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2013,Cluster 9,44,8.6,1
+1-Jan-14,31-Dec-14,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2014,Cluster 9,42,6.8,1
+1-Jan-15,31-Dec-15,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2015,Cluster 9,43,8.1,1
+1-Jan-16,31-Dec-16,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",2016,Cluster 9,47,8.5,1
+1-Jan-00,31-Dec-00,"Hawthorne, Barnaby Woods, Chevy Chase",2000,Cluster 10,19,1.3,1
+1-Jan-01,31-Dec-01,"Hawthorne, Barnaby Woods, Chevy Chase",2001,Cluster 10,19,2.6,1
+1-Jan-02,31-Dec-02,"Hawthorne, Barnaby Woods, Chevy Chase",2002,Cluster 10,18,2.1,1
+1-Jan-03,31-Dec-03,"Hawthorne, Barnaby Woods, Chevy Chase",2003,Cluster 10,22,1.8,1
+1-Jan-04,31-Dec-04,"Hawthorne, Barnaby Woods, Chevy Chase",2004,Cluster 10,17,1.8,1
+1-Jan-05,31-Dec-05,"Hawthorne, Barnaby Woods, Chevy Chase",2005,Cluster 10,16,0.8,1
+1-Jan-06,31-Dec-06,"Hawthorne, Barnaby Woods, Chevy Chase",2006,Cluster 10,13,1,1
+1-Jan-07,31-Dec-07,"Hawthorne, Barnaby Woods, Chevy Chase",2007,Cluster 10,14,1,1
+1-Jan-08,31-Dec-08,"Hawthorne, Barnaby Woods, Chevy Chase",2008,Cluster 10,15,1,1
+1-Jan-09,31-Dec-09,"Hawthorne, Barnaby Woods, Chevy Chase",2009,Cluster 10,21,0.9,1
+1-Jan-10,31-Dec-10,"Hawthorne, Barnaby Woods, Chevy Chase",2010,Cluster 10,17,0.8,1
+1-Jan-11,31-Dec-11,"Hawthorne, Barnaby Woods, Chevy Chase",2011,Cluster 10,17,1.3,1
+1-Jan-12,31-Dec-12,"Hawthorne, Barnaby Woods, Chevy Chase",2012,Cluster 10,18,0.9,1
+1-Jan-13,31-Dec-13,"Hawthorne, Barnaby Woods, Chevy Chase",2013,Cluster 10,25,0.6,1
+1-Jan-14,31-Dec-14,"Hawthorne, Barnaby Woods, Chevy Chase",2014,Cluster 10,21,1.3,1
+1-Jan-15,31-Dec-15,"Hawthorne, Barnaby Woods, Chevy Chase",2015,Cluster 10,16,1,1
+1-Jan-16,31-Dec-16,"Hawthorne, Barnaby Woods, Chevy Chase",2016,Cluster 10,18,1.3,1
+1-Jan-00,31-Dec-00,"Friendship Heights, American University Park, Tenleytown",2000,Cluster 11,59,6.3,1
+1-Jan-01,31-Dec-01,"Friendship Heights, American University Park, Tenleytown",2001,Cluster 11,52,6.3,1
+1-Jan-02,31-Dec-02,"Friendship Heights, American University Park, Tenleytown",2002,Cluster 11,52,5.4,1
+1-Jan-03,31-Dec-03,"Friendship Heights, American University Park, Tenleytown",2003,Cluster 11,53,4.6,1
+1-Jan-04,31-Dec-04,"Friendship Heights, American University Park, Tenleytown",2004,Cluster 11,51,4,1
+1-Jan-05,31-Dec-05,"Friendship Heights, American University Park, Tenleytown",2005,Cluster 11,42,4,1
+1-Jan-06,31-Dec-06,"Friendship Heights, American University Park, Tenleytown",2006,Cluster 11,34,4.1,1
+1-Jan-07,31-Dec-07,"Friendship Heights, American University Park, Tenleytown",2007,Cluster 11,46,4.3,1
+1-Jan-08,31-Dec-08,"Friendship Heights, American University Park, Tenleytown",2008,Cluster 11,53,3.6,1
+1-Jan-09,31-Dec-09,"Friendship Heights, American University Park, Tenleytown",2009,Cluster 11,52,3.9,1
+1-Jan-10,31-Dec-10,"Friendship Heights, American University Park, Tenleytown",2010,Cluster 11,44,4.3,1
+1-Jan-11,31-Dec-11,"Friendship Heights, American University Park, Tenleytown",2011,Cluster 11,43,3.4,1
+1-Jan-12,31-Dec-12,"Friendship Heights, American University Park, Tenleytown",2012,Cluster 11,46,2.6,1
+1-Jan-13,31-Dec-13,"Friendship Heights, American University Park, Tenleytown",2013,Cluster 11,59,1.9,1
+1-Jan-14,31-Dec-14,"Friendship Heights, American University Park, Tenleytown",2014,Cluster 11,53,2.7,1
+1-Jan-15,31-Dec-15,"Friendship Heights, American University Park, Tenleytown",2015,Cluster 11,52,2.4,1
+1-Jan-16,31-Dec-16,"Friendship Heights, American University Park, Tenleytown",2016,Cluster 11,41,2.6,1
+1-Jan-00,31-Dec-00,"North Cleveland Park, Forest Hills, Van Ness",2000,Cluster 12,28,1.8,1
+1-Jan-01,31-Dec-01,"North Cleveland Park, Forest Hills, Van Ness",2001,Cluster 12,25,2.5,1
+1-Jan-02,31-Dec-02,"North Cleveland Park, Forest Hills, Van Ness",2002,Cluster 12,22,2.2,1
+1-Jan-03,31-Dec-03,"North Cleveland Park, Forest Hills, Van Ness",2003,Cluster 12,22,1.2,1
+1-Jan-04,31-Dec-04,"North Cleveland Park, Forest Hills, Van Ness",2004,Cluster 12,24,1,1
+1-Jan-05,31-Dec-05,"North Cleveland Park, Forest Hills, Van Ness",2005,Cluster 12,19,1.5,1
+1-Jan-06,31-Dec-06,"North Cleveland Park, Forest Hills, Van Ness",2006,Cluster 12,17,1.4,1
+1-Jan-07,31-Dec-07,"North Cleveland Park, Forest Hills, Van Ness",2007,Cluster 12,19,1.3,1
+1-Jan-08,31-Dec-08,"North Cleveland Park, Forest Hills, Van Ness",2008,Cluster 12,22,1,1
+1-Jan-09,31-Dec-09,"North Cleveland Park, Forest Hills, Van Ness",2009,Cluster 12,18,1.2,1
+1-Jan-10,31-Dec-10,"North Cleveland Park, Forest Hills, Van Ness",2010,Cluster 12,16,1.1,1
+1-Jan-11,31-Dec-11,"North Cleveland Park, Forest Hills, Van Ness",2011,Cluster 12,20,0.6,1
+1-Jan-12,31-Dec-12,"North Cleveland Park, Forest Hills, Van Ness",2012,Cluster 12,15,0.6,1
+1-Jan-13,31-Dec-13,"North Cleveland Park, Forest Hills, Van Ness",2013,Cluster 12,18,1.1,1
+1-Jan-14,31-Dec-14,"North Cleveland Park, Forest Hills, Van Ness",2014,Cluster 12,19,0.9,1
+1-Jan-15,31-Dec-15,"North Cleveland Park, Forest Hills, Van Ness",2015,Cluster 12,20,0.9,1
+1-Jan-16,31-Dec-16,"North Cleveland Park, Forest Hills, Van Ness",2016,Cluster 12,13,0.8,1
+1-Jan-00,31-Dec-00,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2000,Cluster 13,22,0.9,1
+1-Jan-01,31-Dec-01,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2001,Cluster 13,17,1.3,1
+1-Jan-02,31-Dec-02,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2002,Cluster 13,16,1,1
+1-Jan-03,31-Dec-03,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2003,Cluster 13,19,0.6,1
+1-Jan-04,31-Dec-04,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2004,Cluster 13,12,0.5,1
+1-Jan-05,31-Dec-05,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2005,Cluster 13,12,0.5,1
+1-Jan-06,31-Dec-06,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2006,Cluster 13,11,0.9,1
+1-Jan-07,31-Dec-07,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2007,Cluster 13,12,0.6,1
+1-Jan-08,31-Dec-08,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2008,Cluster 13,12,0.4,1
+1-Jan-09,31-Dec-09,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2009,Cluster 13,14,0.7,1
+1-Jan-10,31-Dec-10,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2010,Cluster 13,16,0.6,1
+1-Jan-11,31-Dec-11,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2011,Cluster 13,13,0.5,1
+1-Jan-12,31-Dec-12,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2012,Cluster 13,11,0.6,1
+1-Jan-13,31-Dec-13,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2013,Cluster 13,15,0.3,1
+1-Jan-14,31-Dec-14,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2014,Cluster 13,11,0.2,1
+1-Jan-15,31-Dec-15,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2015,Cluster 13,10,0.6,1
+1-Jan-16,31-Dec-16,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",2016,Cluster 13,12,0.8,1
+1-Jan-00,31-Dec-00,"Cathedral Heights, McLean Gardens, Glover Park",2000,Cluster 14,17,1.7,1
+1-Jan-01,31-Dec-01,"Cathedral Heights, McLean Gardens, Glover Park",2001,Cluster 14,20,1.5,1
+1-Jan-02,31-Dec-02,"Cathedral Heights, McLean Gardens, Glover Park",2002,Cluster 14,14,1.6,1
+1-Jan-03,31-Dec-03,"Cathedral Heights, McLean Gardens, Glover Park",2003,Cluster 14,14,0.7,1
+1-Jan-04,31-Dec-04,"Cathedral Heights, McLean Gardens, Glover Park",2004,Cluster 14,16,1.4,1
+1-Jan-05,31-Dec-05,"Cathedral Heights, McLean Gardens, Glover Park",2005,Cluster 14,16,1.2,1
+1-Jan-06,31-Dec-06,"Cathedral Heights, McLean Gardens, Glover Park",2006,Cluster 14,14,0.6,1
+1-Jan-07,31-Dec-07,"Cathedral Heights, McLean Gardens, Glover Park",2007,Cluster 14,12,0.9,1
+1-Jan-08,31-Dec-08,"Cathedral Heights, McLean Gardens, Glover Park",2008,Cluster 14,13,0.9,1
+1-Jan-09,31-Dec-09,"Cathedral Heights, McLean Gardens, Glover Park",2009,Cluster 14,14,0.9,1
+1-Jan-10,31-Dec-10,"Cathedral Heights, McLean Gardens, Glover Park",2010,Cluster 14,13,0.5,1
+1-Jan-11,31-Dec-11,"Cathedral Heights, McLean Gardens, Glover Park",2011,Cluster 14,9.6,0.9,1
+1-Jan-12,31-Dec-12,"Cathedral Heights, McLean Gardens, Glover Park",2012,Cluster 14,13,0.7,1
+1-Jan-13,31-Dec-13,"Cathedral Heights, McLean Gardens, Glover Park",2013,Cluster 14,12,0.5,1
+1-Jan-14,31-Dec-14,"Cathedral Heights, McLean Gardens, Glover Park",2014,Cluster 14,14,0.7,1
+1-Jan-15,31-Dec-15,"Cathedral Heights, McLean Gardens, Glover Park",2015,Cluster 14,15,0.5,1
+1-Jan-16,31-Dec-16,"Cathedral Heights, McLean Gardens, Glover Park",2016,Cluster 14,11,0.6,1
+1-Jan-00,31-Dec-00,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2000,Cluster 15,42,2.9,1
+1-Jan-01,31-Dec-01,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2001,Cluster 15,34,4.8,1
+1-Jan-02,31-Dec-02,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2002,Cluster 15,32,3.3,1
+1-Jan-03,31-Dec-03,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2003,Cluster 15,38,2.4,1
+1-Jan-04,31-Dec-04,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2004,Cluster 15,28,2.2,1
+1-Jan-05,31-Dec-05,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2005,Cluster 15,24,2.8,1
+1-Jan-06,31-Dec-06,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2006,Cluster 15,22,2.5,1
+1-Jan-07,31-Dec-07,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2007,Cluster 15,22,1.7,1
+1-Jan-08,31-Dec-08,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2008,Cluster 15,26,2.3,1
+1-Jan-09,31-Dec-09,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2009,Cluster 15,30,2.4,1
+1-Jan-10,31-Dec-10,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2010,Cluster 15,24,2.2,1
+1-Jan-11,31-Dec-11,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2011,Cluster 15,27,2.3,1
+1-Jan-12,31-Dec-12,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2012,Cluster 15,25,2,1
+1-Jan-13,31-Dec-13,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2013,Cluster 15,20,1.6,1
+1-Jan-14,31-Dec-14,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2014,Cluster 15,21,1.6,1
+1-Jan-15,31-Dec-15,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2015,Cluster 15,24,1.1,1
+1-Jan-16,31-Dec-16,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",2016,Cluster 15,24,1.2,1
+1-Jan-00,31-Dec-00,"Colonial Village, Shepherd Park, North Portal Estates",2000,Cluster 16,36,5,1
+1-Jan-01,31-Dec-01,"Colonial Village, Shepherd Park, North Portal Estates",2001,Cluster 16,42,5.3,1
+1-Jan-02,31-Dec-02,"Colonial Village, Shepherd Park, North Portal Estates",2002,Cluster 16,42,2.5,1
+1-Jan-03,31-Dec-03,"Colonial Village, Shepherd Park, North Portal Estates",2003,Cluster 16,45,5.3,1
+1-Jan-04,31-Dec-04,"Colonial Village, Shepherd Park, North Portal Estates",2004,Cluster 16,28,4.3,1
+1-Jan-05,31-Dec-05,"Colonial Village, Shepherd Park, North Portal Estates",2005,Cluster 16,31,5.4,1
+1-Jan-06,31-Dec-06,"Colonial Village, Shepherd Park, North Portal Estates",2006,Cluster 16,27,5.4,1
+1-Jan-07,31-Dec-07,"Colonial Village, Shepherd Park, North Portal Estates",2007,Cluster 16,35,6.2,1
+1-Jan-08,31-Dec-08,"Colonial Village, Shepherd Park, North Portal Estates",2008,Cluster 16,36,6.7,1
+1-Jan-09,31-Dec-09,"Colonial Village, Shepherd Park, North Portal Estates",2009,Cluster 16,44,2.8,1
+1-Jan-10,31-Dec-10,"Colonial Village, Shepherd Park, North Portal Estates",2010,Cluster 16,35,4.2,1
+1-Jan-11,31-Dec-11,"Colonial Village, Shepherd Park, North Portal Estates",2011,Cluster 16,34,2.9,1
+1-Jan-12,31-Dec-12,"Colonial Village, Shepherd Park, North Portal Estates",2012,Cluster 16,50,5.7,1
+1-Jan-13,31-Dec-13,"Colonial Village, Shepherd Park, North Portal Estates",2013,Cluster 16,38,5.5,1
+1-Jan-14,31-Dec-14,"Colonial Village, Shepherd Park, North Portal Estates",2014,Cluster 16,56,3.6,1
+1-Jan-15,31-Dec-15,"Colonial Village, Shepherd Park, North Portal Estates",2015,Cluster 16,46,2.9,1
+1-Jan-16,31-Dec-16,"Colonial Village, Shepherd Park, North Portal Estates",2016,Cluster 16,35,5.5,1
+1-Jan-00,31-Dec-00,"Takoma, Brightwood, Manor Park",2000,Cluster 17,39,9.3,1
+1-Jan-01,31-Dec-01,"Takoma, Brightwood, Manor Park",2001,Cluster 17,44,8.5,1
+1-Jan-02,31-Dec-02,"Takoma, Brightwood, Manor Park",2002,Cluster 17,48,11,1
+1-Jan-03,31-Dec-03,"Takoma, Brightwood, Manor Park",2003,Cluster 17,43,15,1
+1-Jan-04,31-Dec-04,"Takoma, Brightwood, Manor Park",2004,Cluster 17,37,13,1
+1-Jan-05,31-Dec-05,"Takoma, Brightwood, Manor Park",2005,Cluster 17,36,11,1
+1-Jan-06,31-Dec-06,"Takoma, Brightwood, Manor Park",2006,Cluster 17,29,11,1
+1-Jan-07,31-Dec-07,"Takoma, Brightwood, Manor Park",2007,Cluster 17,33,13,1
+1-Jan-08,31-Dec-08,"Takoma, Brightwood, Manor Park",2008,Cluster 17,34,9.9,1
+1-Jan-09,31-Dec-09,"Takoma, Brightwood, Manor Park",2009,Cluster 17,31,11,1
+1-Jan-10,31-Dec-10,"Takoma, Brightwood, Manor Park",2010,Cluster 17,31,8.3,1
+1-Jan-11,31-Dec-11,"Takoma, Brightwood, Manor Park",2011,Cluster 17,35,8.1,1
+1-Jan-12,31-Dec-12,"Takoma, Brightwood, Manor Park",2012,Cluster 17,32,9.5,1
+1-Jan-13,31-Dec-13,"Takoma, Brightwood, Manor Park",2013,Cluster 17,40,7.9,1
+1-Jan-14,31-Dec-14,"Takoma, Brightwood, Manor Park",2014,Cluster 17,54,6.8,1
+1-Jan-15,31-Dec-15,"Takoma, Brightwood, Manor Park",2015,Cluster 17,51,8.6,1
+1-Jan-16,31-Dec-16,"Takoma, Brightwood, Manor Park",2016,Cluster 17,39,6.7,1
+1-Jan-00,31-Dec-00,"Brightwood Park, Crestwood, Petworth",2000,Cluster 18,42,12,1
+1-Jan-01,31-Dec-01,"Brightwood Park, Crestwood, Petworth",2001,Cluster 18,38,9.2,1
+1-Jan-02,31-Dec-02,"Brightwood Park, Crestwood, Petworth",2002,Cluster 18,46,12,1
+1-Jan-03,31-Dec-03,"Brightwood Park, Crestwood, Petworth",2003,Cluster 18,38,15,1
+1-Jan-04,31-Dec-04,"Brightwood Park, Crestwood, Petworth",2004,Cluster 18,37,13,1
+1-Jan-05,31-Dec-05,"Brightwood Park, Crestwood, Petworth",2005,Cluster 18,35,13,1
+1-Jan-06,31-Dec-06,"Brightwood Park, Crestwood, Petworth",2006,Cluster 18,31,12,1
+1-Jan-07,31-Dec-07,"Brightwood Park, Crestwood, Petworth",2007,Cluster 18,33,15,1
+1-Jan-08,31-Dec-08,"Brightwood Park, Crestwood, Petworth",2008,Cluster 18,31,14,1
+1-Jan-09,31-Dec-09,"Brightwood Park, Crestwood, Petworth",2009,Cluster 18,31,14,1
+1-Jan-10,31-Dec-10,"Brightwood Park, Crestwood, Petworth",2010,Cluster 18,32,13,1
+1-Jan-11,31-Dec-11,"Brightwood Park, Crestwood, Petworth",2011,Cluster 18,31,9.2,1
+1-Jan-12,31-Dec-12,"Brightwood Park, Crestwood, Petworth",2012,Cluster 18,33,11,1
+1-Jan-13,31-Dec-13,"Brightwood Park, Crestwood, Petworth",2013,Cluster 18,38,11,1
+1-Jan-14,31-Dec-14,"Brightwood Park, Crestwood, Petworth",2014,Cluster 18,42,10,1
+1-Jan-15,31-Dec-15,"Brightwood Park, Crestwood, Petworth",2015,Cluster 18,36,9.8,1
+1-Jan-16,31-Dec-16,"Brightwood Park, Crestwood, Petworth",2016,Cluster 18,33,7.6,1
+1-Jan-00,31-Dec-00,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2000,Cluster 19,29,6.9,1
+1-Jan-01,31-Dec-01,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2001,Cluster 19,37,7.5,1
+1-Jan-02,31-Dec-02,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2002,Cluster 19,39,8.3,1
+1-Jan-03,31-Dec-03,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2003,Cluster 19,37,14,1
+1-Jan-04,31-Dec-04,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2004,Cluster 19,34,7.9,1
+1-Jan-05,31-Dec-05,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2005,Cluster 19,28,9.8,1
+1-Jan-06,31-Dec-06,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2006,Cluster 19,23,10,1
+1-Jan-07,31-Dec-07,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2007,Cluster 19,27,11,1
+1-Jan-08,31-Dec-08,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2008,Cluster 19,26,11,1
+1-Jan-09,31-Dec-09,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2009,Cluster 19,26,11,1
+1-Jan-10,31-Dec-10,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2010,Cluster 19,28,7.3,1
+1-Jan-11,31-Dec-11,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2011,Cluster 19,25,6.1,1
+1-Jan-12,31-Dec-12,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2012,Cluster 19,25,6.7,1
+1-Jan-13,31-Dec-13,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2013,Cluster 19,23,6.6,1
+1-Jan-14,31-Dec-14,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2014,Cluster 19,32,6.8,1
+1-Jan-15,31-Dec-15,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2015,Cluster 19,30,8,1
+1-Jan-16,31-Dec-16,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",2016,Cluster 19,31,6.1,1
+1-Jan-00,31-Dec-00,"North Michigan Park, Michigan Park, University Heights",2000,Cluster 20,27,7,1
+1-Jan-01,31-Dec-01,"North Michigan Park, Michigan Park, University Heights",2001,Cluster 20,33,7.4,1
+1-Jan-02,31-Dec-02,"North Michigan Park, Michigan Park, University Heights",2002,Cluster 20,33,6.7,1
+1-Jan-03,31-Dec-03,"North Michigan Park, Michigan Park, University Heights",2003,Cluster 20,32,7.1,1
+1-Jan-04,31-Dec-04,"North Michigan Park, Michigan Park, University Heights",2004,Cluster 20,30,5.9,1
+1-Jan-05,31-Dec-05,"North Michigan Park, Michigan Park, University Heights",2005,Cluster 20,32,8.9,1
+1-Jan-06,31-Dec-06,"North Michigan Park, Michigan Park, University Heights",2006,Cluster 20,26,9.7,1
+1-Jan-07,31-Dec-07,"North Michigan Park, Michigan Park, University Heights",2007,Cluster 20,27,8.8,1
+1-Jan-08,31-Dec-08,"North Michigan Park, Michigan Park, University Heights",2008,Cluster 20,28,6.4,1
+1-Jan-09,31-Dec-09,"North Michigan Park, Michigan Park, University Heights",2009,Cluster 20,27,6.5,1
+1-Jan-10,31-Dec-10,"North Michigan Park, Michigan Park, University Heights",2010,Cluster 20,28,6.2,1
+1-Jan-11,31-Dec-11,"North Michigan Park, Michigan Park, University Heights",2011,Cluster 20,29,6.1,1
+1-Jan-12,31-Dec-12,"North Michigan Park, Michigan Park, University Heights",2012,Cluster 20,35,6.3,1
+1-Jan-13,31-Dec-13,"North Michigan Park, Michigan Park, University Heights",2013,Cluster 20,29,6.7,1
+1-Jan-14,31-Dec-14,"North Michigan Park, Michigan Park, University Heights",2014,Cluster 20,42,5.6,1
+1-Jan-15,31-Dec-15,"North Michigan Park, Michigan Park, University Heights",2015,Cluster 20,36,5.7,1
+1-Jan-16,31-Dec-16,"North Michigan Park, Michigan Park, University Heights",2016,Cluster 20,27,4.9,1
+1-Jan-00,31-Dec-00,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2000,Cluster 21,47,19,1
+1-Jan-01,31-Dec-01,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2001,Cluster 21,54,21,1
+1-Jan-02,31-Dec-02,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2002,Cluster 21,53,18,1
+1-Jan-03,31-Dec-03,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2003,Cluster 21,62,19,1
+1-Jan-04,31-Dec-04,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2004,Cluster 21,55,17,1
+1-Jan-05,31-Dec-05,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2005,Cluster 21,47,18,1
+1-Jan-06,31-Dec-06,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2006,Cluster 21,39,17,1
+1-Jan-07,31-Dec-07,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2007,Cluster 21,52,14,1
+1-Jan-08,31-Dec-08,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2008,Cluster 21,42,14,1
+1-Jan-09,31-Dec-09,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2009,Cluster 21,38,16,1
+1-Jan-10,31-Dec-10,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2010,Cluster 21,38,14,1
+1-Jan-11,31-Dec-11,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2011,Cluster 21,40,13,1
+1-Jan-12,31-Dec-12,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2012,Cluster 21,54,14,1
+1-Jan-13,31-Dec-13,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2013,Cluster 21,45,11,1
+1-Jan-14,31-Dec-14,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2014,Cluster 21,59,12,1
+1-Jan-15,31-Dec-15,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2015,Cluster 21,54,12,1
+1-Jan-16,31-Dec-16,"Edgewood, Bloomingdale, Truxton Circle, Eckington",2016,Cluster 21,49,13,1
+1-Jan-00,31-Dec-00,"Brookland, Brentwood, Langdon",2000,Cluster 22,65,20,1
+1-Jan-01,31-Dec-01,"Brookland, Brentwood, Langdon",2001,Cluster 22,67,17,1
+1-Jan-02,31-Dec-02,"Brookland, Brentwood, Langdon",2002,Cluster 22,61,18,1
+1-Jan-03,31-Dec-03,"Brookland, Brentwood, Langdon",2003,Cluster 22,71,19,1
+1-Jan-04,31-Dec-04,"Brookland, Brentwood, Langdon",2004,Cluster 22,68,17,1
+1-Jan-05,31-Dec-05,"Brookland, Brentwood, Langdon",2005,Cluster 22,68,22,1
+1-Jan-06,31-Dec-06,"Brookland, Brentwood, Langdon",2006,Cluster 22,60,18,1
+1-Jan-07,31-Dec-07,"Brookland, Brentwood, Langdon",2007,Cluster 22,56,18,1
+1-Jan-08,31-Dec-08,"Brookland, Brentwood, Langdon",2008,Cluster 22,53,18,1
+1-Jan-09,31-Dec-09,"Brookland, Brentwood, Langdon",2009,Cluster 22,52,15,1
+1-Jan-10,31-Dec-10,"Brookland, Brentwood, Langdon",2010,Cluster 22,55,14,1
+1-Jan-11,31-Dec-11,"Brookland, Brentwood, Langdon",2011,Cluster 22,61,16,1
+1-Jan-12,31-Dec-12,"Brookland, Brentwood, Langdon",2012,Cluster 22,71,17,1
+1-Jan-13,31-Dec-13,"Brookland, Brentwood, Langdon",2013,Cluster 22,79,16,1
+1-Jan-14,31-Dec-14,"Brookland, Brentwood, Langdon",2014,Cluster 22,93,16,1
+1-Jan-15,31-Dec-15,"Brookland, Brentwood, Langdon",2015,Cluster 22,90,18,1
+1-Jan-16,31-Dec-16,"Brookland, Brentwood, Langdon",2016,Cluster 22,79,17,1
+1-Jan-00,31-Dec-00,"Ivy City, Arboretum, Trinidad, Carver Langston",2000,Cluster 23,65,33,1
+1-Jan-01,31-Dec-01,"Ivy City, Arboretum, Trinidad, Carver Langston",2001,Cluster 23,71,32,1
+1-Jan-02,31-Dec-02,"Ivy City, Arboretum, Trinidad, Carver Langston",2002,Cluster 23,69,29,1
+1-Jan-03,31-Dec-03,"Ivy City, Arboretum, Trinidad, Carver Langston",2003,Cluster 23,81,37,1
+1-Jan-04,31-Dec-04,"Ivy City, Arboretum, Trinidad, Carver Langston",2004,Cluster 23,85,30,1
+1-Jan-05,31-Dec-05,"Ivy City, Arboretum, Trinidad, Carver Langston",2005,Cluster 23,70,34,1
+1-Jan-06,31-Dec-06,"Ivy City, Arboretum, Trinidad, Carver Langston",2006,Cluster 23,67,29,1
+1-Jan-07,31-Dec-07,"Ivy City, Arboretum, Trinidad, Carver Langston",2007,Cluster 23,77,30,1
+1-Jan-08,31-Dec-08,"Ivy City, Arboretum, Trinidad, Carver Langston",2008,Cluster 23,65,27,1
+1-Jan-09,31-Dec-09,"Ivy City, Arboretum, Trinidad, Carver Langston",2009,Cluster 23,66,23,1
+1-Jan-10,31-Dec-10,"Ivy City, Arboretum, Trinidad, Carver Langston",2010,Cluster 23,54,22,1
+1-Jan-11,31-Dec-11,"Ivy City, Arboretum, Trinidad, Carver Langston",2011,Cluster 23,63,19,1
+1-Jan-12,31-Dec-12,"Ivy City, Arboretum, Trinidad, Carver Langston",2012,Cluster 23,63,24,1
+1-Jan-13,31-Dec-13,"Ivy City, Arboretum, Trinidad, Carver Langston",2013,Cluster 23,68,20,1
+1-Jan-14,31-Dec-14,"Ivy City, Arboretum, Trinidad, Carver Langston",2014,Cluster 23,69,21,1
+1-Jan-15,31-Dec-15,"Ivy City, Arboretum, Trinidad, Carver Langston",2015,Cluster 23,65,22,1
+1-Jan-16,31-Dec-16,"Ivy City, Arboretum, Trinidad, Carver Langston",2016,Cluster 23,62,23,1
+1-Jan-00,31-Dec-00,"Woodridge, Fort Lincoln, Gateway",2000,Cluster 24,51,8.8,1
+1-Jan-01,31-Dec-01,"Woodridge, Fort Lincoln, Gateway",2001,Cluster 24,60,11,1
+1-Jan-02,31-Dec-02,"Woodridge, Fort Lincoln, Gateway",2002,Cluster 24,51,12,1
+1-Jan-03,31-Dec-03,"Woodridge, Fort Lincoln, Gateway",2003,Cluster 24,52,13,1
+1-Jan-04,31-Dec-04,"Woodridge, Fort Lincoln, Gateway",2004,Cluster 24,49,11,1
+1-Jan-05,31-Dec-05,"Woodridge, Fort Lincoln, Gateway",2005,Cluster 24,43,11,1
+1-Jan-06,31-Dec-06,"Woodridge, Fort Lincoln, Gateway",2006,Cluster 24,36,10,1
+1-Jan-07,31-Dec-07,"Woodridge, Fort Lincoln, Gateway",2007,Cluster 24,46,11,1
+1-Jan-08,31-Dec-08,"Woodridge, Fort Lincoln, Gateway",2008,Cluster 24,45,8.9,1
+1-Jan-09,31-Dec-09,"Woodridge, Fort Lincoln, Gateway",2009,Cluster 24,45,8,1
+1-Jan-10,31-Dec-10,"Woodridge, Fort Lincoln, Gateway",2010,Cluster 24,48,5.4,1
+1-Jan-11,31-Dec-11,"Woodridge, Fort Lincoln, Gateway",2011,Cluster 24,47,7.2,1
+1-Jan-12,31-Dec-12,"Woodridge, Fort Lincoln, Gateway",2012,Cluster 24,49,9.7,1
+1-Jan-13,31-Dec-13,"Woodridge, Fort Lincoln, Gateway",2013,Cluster 24,59,7.9,1
+1-Jan-14,31-Dec-14,"Woodridge, Fort Lincoln, Gateway",2014,Cluster 24,66,6.7,1
+1-Jan-15,31-Dec-15,"Woodridge, Fort Lincoln, Gateway",2015,Cluster 24,61,7.2,1
+1-Jan-16,31-Dec-16,"Woodridge, Fort Lincoln, Gateway",2016,Cluster 24,56,7.3,1
+1-Jan-00,31-Dec-00,"Union Station, Stanton Park, Kingman Park",2000,Cluster 25,65,23,1
+1-Jan-01,31-Dec-01,"Union Station, Stanton Park, Kingman Park",2001,Cluster 25,83,24,1
+1-Jan-02,31-Dec-02,"Union Station, Stanton Park, Kingman Park",2002,Cluster 25,73,22,1
+1-Jan-03,31-Dec-03,"Union Station, Stanton Park, Kingman Park",2003,Cluster 25,75,23,1
+1-Jan-04,31-Dec-04,"Union Station, Stanton Park, Kingman Park",2004,Cluster 25,88,21,1
+1-Jan-05,31-Dec-05,"Union Station, Stanton Park, Kingman Park",2005,Cluster 25,73,18,1
+1-Jan-06,31-Dec-06,"Union Station, Stanton Park, Kingman Park",2006,Cluster 25,73,19,1
+1-Jan-07,31-Dec-07,"Union Station, Stanton Park, Kingman Park",2007,Cluster 25,64,20,1
+1-Jan-08,31-Dec-08,"Union Station, Stanton Park, Kingman Park",2008,Cluster 25,62,18,1
+1-Jan-09,31-Dec-09,"Union Station, Stanton Park, Kingman Park",2009,Cluster 25,60,17,1
+1-Jan-10,31-Dec-10,"Union Station, Stanton Park, Kingman Park",2010,Cluster 25,52,13,1
+1-Jan-11,31-Dec-11,"Union Station, Stanton Park, Kingman Park",2011,Cluster 25,57,15,1
+1-Jan-12,31-Dec-12,"Union Station, Stanton Park, Kingman Park",2012,Cluster 25,72,14,1
+1-Jan-13,31-Dec-13,"Union Station, Stanton Park, Kingman Park",2013,Cluster 25,73,13,1
+1-Jan-14,31-Dec-14,"Union Station, Stanton Park, Kingman Park",2014,Cluster 25,79,12,1
+1-Jan-15,31-Dec-15,"Union Station, Stanton Park, Kingman Park",2015,Cluster 25,71,14,1
+1-Jan-16,31-Dec-16,"Union Station, Stanton Park, Kingman Park",2016,Cluster 25,66,12,1
+1-Jan-00,31-Dec-00,"Capitol Hill, Lincoln Park",2000,Cluster 26,52,12,1
+1-Jan-01,31-Dec-01,"Capitol Hill, Lincoln Park",2001,Cluster 26,66,13,1
+1-Jan-02,31-Dec-02,"Capitol Hill, Lincoln Park",2002,Cluster 26,54,13,1
+1-Jan-03,31-Dec-03,"Capitol Hill, Lincoln Park",2003,Cluster 26,49,13,1
+1-Jan-04,31-Dec-04,"Capitol Hill, Lincoln Park",2004,Cluster 26,45,9.2,1
+1-Jan-05,31-Dec-05,"Capitol Hill, Lincoln Park",2005,Cluster 26,42,9.9,1
+1-Jan-06,31-Dec-06,"Capitol Hill, Lincoln Park",2006,Cluster 26,34,9.5,1
+1-Jan-07,31-Dec-07,"Capitol Hill, Lincoln Park",2007,Cluster 26,40,9.3,1
+1-Jan-08,31-Dec-08,"Capitol Hill, Lincoln Park",2008,Cluster 26,47,9.8,1
+1-Jan-09,31-Dec-09,"Capitol Hill, Lincoln Park",2009,Cluster 26,47,9.5,1
+1-Jan-10,31-Dec-10,"Capitol Hill, Lincoln Park",2010,Cluster 26,38,7.7,1
+1-Jan-11,31-Dec-11,"Capitol Hill, Lincoln Park",2011,Cluster 26,40,6.4,1
+1-Jan-12,31-Dec-12,"Capitol Hill, Lincoln Park",2012,Cluster 26,49,7.6,1
+1-Jan-13,31-Dec-13,"Capitol Hill, Lincoln Park",2013,Cluster 26,55,6.1,1
+1-Jan-14,31-Dec-14,"Capitol Hill, Lincoln Park",2014,Cluster 26,55,6.3,1
+1-Jan-15,31-Dec-15,"Capitol Hill, Lincoln Park",2015,Cluster 26,54,8.1,1
+1-Jan-16,31-Dec-16,"Capitol Hill, Lincoln Park",2016,Cluster 26,50,7.1,1
+1-Jan-00,31-Dec-00,"Near Southeast, Navy Yard",2000,Cluster 27,270,62,1
+1-Jan-01,31-Dec-01,"Near Southeast, Navy Yard",2001,Cluster 27,298,70,1
+1-Jan-02,31-Dec-02,"Near Southeast, Navy Yard",2002,Cluster 27,211,70,1
+1-Jan-03,31-Dec-03,"Near Southeast, Navy Yard",2003,Cluster 27,139,58,1
+1-Jan-04,31-Dec-04,"Near Southeast, Navy Yard",2004,Cluster 27,112,35,1
+1-Jan-05,31-Dec-05,"Near Southeast, Navy Yard",2005,Cluster 27,93,28,1
+1-Jan-06,31-Dec-06,"Near Southeast, Navy Yard",2006,Cluster 27,119,14,1
+1-Jan-07,31-Dec-07,"Near Southeast, Navy Yard",2007,Cluster 27,82,11,1
+1-Jan-08,31-Dec-08,"Near Southeast, Navy Yard",2008,Cluster 27,58,10,1
+1-Jan-09,31-Dec-09,"Near Southeast, Navy Yard",2009,Cluster 27,46,11,1
+1-Jan-10,31-Dec-10,"Near Southeast, Navy Yard",2010,Cluster 27,47,9.3,1
+1-Jan-11,31-Dec-11,"Near Southeast, Navy Yard",2011,Cluster 27,58,7.9,1
+1-Jan-12,31-Dec-12,"Near Southeast, Navy Yard",2012,Cluster 27,54,8.6,1
+1-Jan-13,31-Dec-13,"Near Southeast, Navy Yard",2013,Cluster 27,61,10,1
+1-Jan-14,31-Dec-14,"Near Southeast, Navy Yard",2014,Cluster 27,72,5.4,1
+1-Jan-15,31-Dec-15,"Near Southeast, Navy Yard",2015,Cluster 27,80,8.2,1
+1-Jan-16,31-Dec-16,"Near Southeast, Navy Yard",2016,Cluster 27,96,14,1
+1-Jan-00,31-Dec-00,Historic Anacostia,2000,Cluster 28,47,26,1
+1-Jan-01,31-Dec-01,Historic Anacostia,2001,Cluster 28,48,25,1
+1-Jan-02,31-Dec-02,Historic Anacostia,2002,Cluster 28,44,25,1
+1-Jan-03,31-Dec-03,Historic Anacostia,2003,Cluster 28,45,25,1
+1-Jan-04,31-Dec-04,Historic Anacostia,2004,Cluster 28,48,22,1
+1-Jan-05,31-Dec-05,Historic Anacostia,2005,Cluster 28,36,22,1
+1-Jan-06,31-Dec-06,Historic Anacostia,2006,Cluster 28,38,23,1
+1-Jan-07,31-Dec-07,Historic Anacostia,2007,Cluster 28,49,31,1
+1-Jan-08,31-Dec-08,Historic Anacostia,2008,Cluster 28,39,31,1
+1-Jan-09,31-Dec-09,Historic Anacostia,2009,Cluster 28,48,16,1
+1-Jan-10,31-Dec-10,Historic Anacostia,2010,Cluster 28,39,25,1
+1-Jan-11,31-Dec-11,Historic Anacostia,2011,Cluster 28,48,26,1
+1-Jan-12,31-Dec-12,Historic Anacostia,2012,Cluster 28,51,25,1
+1-Jan-13,31-Dec-13,Historic Anacostia,2013,Cluster 28,56,23,1
+1-Jan-14,31-Dec-14,Historic Anacostia,2014,Cluster 28,59,22,1
+1-Jan-15,31-Dec-15,Historic Anacostia,2015,Cluster 28,58,20,1
+1-Jan-16,31-Dec-16,Historic Anacostia,2016,Cluster 28,57,23,1
+1-Jan-00,31-Dec-00,"Eastland Gardens, Kenilworth",2000,Cluster 29,30,16,1
+1-Jan-01,31-Dec-01,"Eastland Gardens, Kenilworth",2001,Cluster 29,37,17,1
+1-Jan-02,31-Dec-02,"Eastland Gardens, Kenilworth",2002,Cluster 29,30,22,1
+1-Jan-03,31-Dec-03,"Eastland Gardens, Kenilworth",2003,Cluster 29,82,21,1
+1-Jan-04,31-Dec-04,"Eastland Gardens, Kenilworth",2004,Cluster 29,48,16,1
+1-Jan-05,31-Dec-05,"Eastland Gardens, Kenilworth",2005,Cluster 29,36,31,1
+1-Jan-06,31-Dec-06,"Eastland Gardens, Kenilworth",2006,Cluster 29,28,15,1
+1-Jan-07,31-Dec-07,"Eastland Gardens, Kenilworth",2007,Cluster 29,52,16,1
+1-Jan-08,31-Dec-08,"Eastland Gardens, Kenilworth",2008,Cluster 29,47,25,1
+1-Jan-09,31-Dec-09,"Eastland Gardens, Kenilworth",2009,Cluster 29,45,22,1
+1-Jan-10,31-Dec-10,"Eastland Gardens, Kenilworth",2010,Cluster 29,52,11,1
+1-Jan-11,31-Dec-11,"Eastland Gardens, Kenilworth",2011,Cluster 29,28,12,1
+1-Jan-12,31-Dec-12,"Eastland Gardens, Kenilworth",2012,Cluster 29,47,15,1
+1-Jan-13,31-Dec-13,"Eastland Gardens, Kenilworth",2013,Cluster 29,27,21,1
+1-Jan-14,31-Dec-14,"Eastland Gardens, Kenilworth",2014,Cluster 29,35,29,1
+1-Jan-15,31-Dec-15,"Eastland Gardens, Kenilworth",2015,Cluster 29,24,10,1
+1-Jan-16,31-Dec-16,"Eastland Gardens, Kenilworth",2016,Cluster 29,23,15,1
+1-Jan-00,31-Dec-00,"Mayfair, Hillbrook, Mahaning Heights",2000,Cluster 30,46,15,1
+1-Jan-01,31-Dec-01,"Mayfair, Hillbrook, Mahaning Heights",2001,Cluster 30,63,20,1
+1-Jan-02,31-Dec-02,"Mayfair, Hillbrook, Mahaning Heights",2002,Cluster 30,52,16,1
+1-Jan-03,31-Dec-03,"Mayfair, Hillbrook, Mahaning Heights",2003,Cluster 30,66,18,1
+1-Jan-04,31-Dec-04,"Mayfair, Hillbrook, Mahaning Heights",2004,Cluster 30,55,17,1
+1-Jan-05,31-Dec-05,"Mayfair, Hillbrook, Mahaning Heights",2005,Cluster 30,47,19,1
+1-Jan-06,31-Dec-06,"Mayfair, Hillbrook, Mahaning Heights",2006,Cluster 30,45,15,1
+1-Jan-07,31-Dec-07,"Mayfair, Hillbrook, Mahaning Heights",2007,Cluster 30,61,17,1
+1-Jan-08,31-Dec-08,"Mayfair, Hillbrook, Mahaning Heights",2008,Cluster 30,62,19,1
+1-Jan-09,31-Dec-09,"Mayfair, Hillbrook, Mahaning Heights",2009,Cluster 30,55,24,1
+1-Jan-10,31-Dec-10,"Mayfair, Hillbrook, Mahaning Heights",2010,Cluster 30,48,20,1
+1-Jan-11,31-Dec-11,"Mayfair, Hillbrook, Mahaning Heights",2011,Cluster 30,40,22,1
+1-Jan-12,31-Dec-12,"Mayfair, Hillbrook, Mahaning Heights",2012,Cluster 30,43,19,1
+1-Jan-13,31-Dec-13,"Mayfair, Hillbrook, Mahaning Heights",2013,Cluster 30,51,25,1
+1-Jan-14,31-Dec-14,"Mayfair, Hillbrook, Mahaning Heights",2014,Cluster 30,52,27,1
+1-Jan-15,31-Dec-15,"Mayfair, Hillbrook, Mahaning Heights",2015,Cluster 30,48,20,1
+1-Jan-16,31-Dec-16,"Mayfair, Hillbrook, Mahaning Heights",2016,Cluster 30,47,22,1
+1-Jan-00,31-Dec-00,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2000,Cluster 31,52,24,1
+1-Jan-01,31-Dec-01,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2001,Cluster 31,53,25,1
+1-Jan-02,31-Dec-02,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2002,Cluster 31,54,22,1
+1-Jan-03,31-Dec-03,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2003,Cluster 31,76,24,1
+1-Jan-04,31-Dec-04,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2004,Cluster 31,51,19,1
+1-Jan-05,31-Dec-05,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2005,Cluster 31,41,24,1
+1-Jan-06,31-Dec-06,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2006,Cluster 31,45,19,1
+1-Jan-07,31-Dec-07,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2007,Cluster 31,61,22,1
+1-Jan-08,31-Dec-08,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2008,Cluster 31,76,28,1
+1-Jan-09,31-Dec-09,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2009,Cluster 31,65,26,1
+1-Jan-10,31-Dec-10,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2010,Cluster 31,69,28,1
+1-Jan-11,31-Dec-11,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2011,Cluster 31,72,24,1
+1-Jan-12,31-Dec-12,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2012,Cluster 31,51,21,1
+1-Jan-13,31-Dec-13,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2013,Cluster 31,52,28,1
+1-Jan-14,31-Dec-14,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2014,Cluster 31,69,27,1
+1-Jan-15,31-Dec-15,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2015,Cluster 31,56,25,1
+1-Jan-16,31-Dec-16,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",2016,Cluster 31,49,21,1
+1-Jan-00,31-Dec-00,"River Terrace, Benning, Greenway, Dupont Park",2000,Cluster 32,49,20,1
+1-Jan-01,31-Dec-01,"River Terrace, Benning, Greenway, Dupont Park",2001,Cluster 32,49,22,1
+1-Jan-02,31-Dec-02,"River Terrace, Benning, Greenway, Dupont Park",2002,Cluster 32,57,20,1
+1-Jan-03,31-Dec-03,"River Terrace, Benning, Greenway, Dupont Park",2003,Cluster 32,62,20,1
+1-Jan-04,31-Dec-04,"River Terrace, Benning, Greenway, Dupont Park",2004,Cluster 32,47,19,1
+1-Jan-05,31-Dec-05,"River Terrace, Benning, Greenway, Dupont Park",2005,Cluster 32,37,16,1
+1-Jan-06,31-Dec-06,"River Terrace, Benning, Greenway, Dupont Park",2006,Cluster 32,32,15,1
+1-Jan-07,31-Dec-07,"River Terrace, Benning, Greenway, Dupont Park",2007,Cluster 32,35,18,1
+1-Jan-08,31-Dec-08,"River Terrace, Benning, Greenway, Dupont Park",2008,Cluster 32,49,16,1
+1-Jan-09,31-Dec-09,"River Terrace, Benning, Greenway, Dupont Park",2009,Cluster 32,39,16,1
+1-Jan-10,31-Dec-10,"River Terrace, Benning, Greenway, Dupont Park",2010,Cluster 32,40,19,1
+1-Jan-11,31-Dec-11,"River Terrace, Benning, Greenway, Dupont Park",2011,Cluster 32,38,18,1
+1-Jan-12,31-Dec-12,"River Terrace, Benning, Greenway, Dupont Park",2012,Cluster 32,50,21,1
+1-Jan-13,31-Dec-13,"River Terrace, Benning, Greenway, Dupont Park",2013,Cluster 32,51,23,1
+1-Jan-14,31-Dec-14,"River Terrace, Benning, Greenway, Dupont Park",2014,Cluster 32,59,25,1
+1-Jan-15,31-Dec-15,"River Terrace, Benning, Greenway, Dupont Park",2015,Cluster 32,57,20,1
+1-Jan-16,31-Dec-16,"River Terrace, Benning, Greenway, Dupont Park",2016,Cluster 32,55,18,1
+1-Jan-00,31-Dec-00,"Capitol View, Marshall Heights, Benning Heights",2000,Cluster 33,42,21,1
+1-Jan-01,31-Dec-01,"Capitol View, Marshall Heights, Benning Heights",2001,Cluster 33,43,21,1
+1-Jan-02,31-Dec-02,"Capitol View, Marshall Heights, Benning Heights",2002,Cluster 33,52,21,1
+1-Jan-03,31-Dec-03,"Capitol View, Marshall Heights, Benning Heights",2003,Cluster 33,58,19,1
+1-Jan-04,31-Dec-04,"Capitol View, Marshall Heights, Benning Heights",2004,Cluster 33,41,17,1
+1-Jan-05,31-Dec-05,"Capitol View, Marshall Heights, Benning Heights",2005,Cluster 33,32,17,1
+1-Jan-06,31-Dec-06,"Capitol View, Marshall Heights, Benning Heights",2006,Cluster 33,31,16,1
+1-Jan-07,31-Dec-07,"Capitol View, Marshall Heights, Benning Heights",2007,Cluster 33,39,14,1
+1-Jan-08,31-Dec-08,"Capitol View, Marshall Heights, Benning Heights",2008,Cluster 33,45,16,1
+1-Jan-09,31-Dec-09,"Capitol View, Marshall Heights, Benning Heights",2009,Cluster 33,31,19,1
+1-Jan-10,31-Dec-10,"Capitol View, Marshall Heights, Benning Heights",2010,Cluster 33,32,18,1
+1-Jan-11,31-Dec-11,"Capitol View, Marshall Heights, Benning Heights",2011,Cluster 33,36,16,1
+1-Jan-12,31-Dec-12,"Capitol View, Marshall Heights, Benning Heights",2012,Cluster 33,38,14,1
+1-Jan-13,31-Dec-13,"Capitol View, Marshall Heights, Benning Heights",2013,Cluster 33,38,21,1
+1-Jan-14,31-Dec-14,"Capitol View, Marshall Heights, Benning Heights",2014,Cluster 33,44,18,1
+1-Jan-15,31-Dec-15,"Capitol View, Marshall Heights, Benning Heights",2015,Cluster 33,37,16,1
+1-Jan-16,31-Dec-16,"Capitol View, Marshall Heights, Benning Heights",2016,Cluster 33,35,13,1
+1-Jan-00,31-Dec-00,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2000,Cluster 34,46,16,1
+1-Jan-01,31-Dec-01,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2001,Cluster 34,50,17,1
+1-Jan-02,31-Dec-02,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2002,Cluster 34,53,16,1
+1-Jan-03,31-Dec-03,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2003,Cluster 34,56,14,1
+1-Jan-04,31-Dec-04,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2004,Cluster 34,41,13,1
+1-Jan-05,31-Dec-05,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2005,Cluster 34,33,13,1
+1-Jan-06,31-Dec-06,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2006,Cluster 34,32,15,1
+1-Jan-07,31-Dec-07,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2007,Cluster 34,37,13,1
+1-Jan-08,31-Dec-08,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2008,Cluster 34,37,13,1
+1-Jan-09,31-Dec-09,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2009,Cluster 34,39,11,1
+1-Jan-10,31-Dec-10,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2010,Cluster 34,31,10,1
+1-Jan-11,31-Dec-11,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2011,Cluster 34,33,12,1
+1-Jan-12,31-Dec-12,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2012,Cluster 34,45,17,1
+1-Jan-13,31-Dec-13,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2013,Cluster 34,46,17,1
+1-Jan-14,31-Dec-14,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2014,Cluster 34,53,15,1
+1-Jan-15,31-Dec-15,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2015,Cluster 34,42,14,1
+1-Jan-16,31-Dec-16,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",2016,Cluster 34,40,14,1
+1-Jan-00,31-Dec-00,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2000,Cluster 35,57,13,1
+1-Jan-01,31-Dec-01,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2001,Cluster 35,71,17,1
+1-Jan-02,31-Dec-02,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2002,Cluster 35,71,15,1
+1-Jan-03,31-Dec-03,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2003,Cluster 35,87,14,1
+1-Jan-04,31-Dec-04,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2004,Cluster 35,54,15,1
+1-Jan-05,31-Dec-05,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2005,Cluster 35,48,14,1
+1-Jan-06,31-Dec-06,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2006,Cluster 35,43,11,1
+1-Jan-07,31-Dec-07,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2007,Cluster 35,66,19,1
+1-Jan-08,31-Dec-08,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2008,Cluster 35,52,16,1
+1-Jan-09,31-Dec-09,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2009,Cluster 35,53,13,1
+1-Jan-10,31-Dec-10,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2010,Cluster 35,44,19,1
+1-Jan-11,31-Dec-11,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2011,Cluster 35,49,15,1
+1-Jan-12,31-Dec-12,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2012,Cluster 35,57,13,1
+1-Jan-13,31-Dec-13,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2013,Cluster 35,47,13,1
+1-Jan-14,31-Dec-14,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2014,Cluster 35,46,13,1
+1-Jan-15,31-Dec-15,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2015,Cluster 35,45,8.7,1
+1-Jan-16,31-Dec-16,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",2016,Cluster 35,40,9.6,1
+1-Jan-00,31-Dec-00,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2000,Cluster 36,27,27,1
+1-Jan-01,31-Dec-01,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2001,Cluster 36,27,29,1
+1-Jan-02,31-Dec-02,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2002,Cluster 36,36,28,1
+1-Jan-03,31-Dec-03,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2003,Cluster 36,43,26,1
+1-Jan-04,31-Dec-04,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2004,Cluster 36,37,28,1
+1-Jan-05,31-Dec-05,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2005,Cluster 36,29,25,1
+1-Jan-06,31-Dec-06,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2006,Cluster 36,23,22,1
+1-Jan-07,31-Dec-07,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2007,Cluster 36,28,20,1
+1-Jan-08,31-Dec-08,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2008,Cluster 36,24,17,1
+1-Jan-09,31-Dec-09,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2009,Cluster 36,25,17,1
+1-Jan-10,31-Dec-10,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2010,Cluster 36,28,16,1
+1-Jan-11,31-Dec-11,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2011,Cluster 36,30,18,1
+1-Jan-12,31-Dec-12,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2012,Cluster 36,36,21,1
+1-Jan-13,31-Dec-13,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2013,Cluster 36,34,20,1
+1-Jan-14,31-Dec-14,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2014,Cluster 36,33,16,1
+1-Jan-15,31-Dec-15,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2015,Cluster 36,30,15,1
+1-Jan-16,31-Dec-16,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",2016,Cluster 36,28,11,1
+1-Jan-00,31-Dec-00,"Sheridan, Barry Farm, Buena Vista",2000,Cluster 37,33,24,1
+1-Jan-01,31-Dec-01,"Sheridan, Barry Farm, Buena Vista",2001,Cluster 37,37,24,1
+1-Jan-02,31-Dec-02,"Sheridan, Barry Farm, Buena Vista",2002,Cluster 37,34,26,1
+1-Jan-03,31-Dec-03,"Sheridan, Barry Farm, Buena Vista",2003,Cluster 37,40,26,1
+1-Jan-04,31-Dec-04,"Sheridan, Barry Farm, Buena Vista",2004,Cluster 37,32,24,1
+1-Jan-05,31-Dec-05,"Sheridan, Barry Farm, Buena Vista",2005,Cluster 37,38,21,1
+1-Jan-06,31-Dec-06,"Sheridan, Barry Farm, Buena Vista",2006,Cluster 37,33,24,1
+1-Jan-07,31-Dec-07,"Sheridan, Barry Farm, Buena Vista",2007,Cluster 37,44,27,1
+1-Jan-08,31-Dec-08,"Sheridan, Barry Farm, Buena Vista",2008,Cluster 37,42,24,1
+1-Jan-09,31-Dec-09,"Sheridan, Barry Farm, Buena Vista",2009,Cluster 37,46,24,1
+1-Jan-10,31-Dec-10,"Sheridan, Barry Farm, Buena Vista",2010,Cluster 37,40,22,1
+1-Jan-11,31-Dec-11,"Sheridan, Barry Farm, Buena Vista",2011,Cluster 37,48,24,1
+1-Jan-12,31-Dec-12,"Sheridan, Barry Farm, Buena Vista",2012,Cluster 37,49,29,1
+1-Jan-13,31-Dec-13,"Sheridan, Barry Farm, Buena Vista",2013,Cluster 37,43,22,1
+1-Jan-14,31-Dec-14,"Sheridan, Barry Farm, Buena Vista",2014,Cluster 37,36,21,1
+1-Jan-15,31-Dec-15,"Sheridan, Barry Farm, Buena Vista",2015,Cluster 37,46,19,1
+1-Jan-16,31-Dec-16,"Sheridan, Barry Farm, Buena Vista",2016,Cluster 37,35,22,1
+1-Jan-00,31-Dec-00,"Douglas, Shipley Terrace",2000,Cluster 38,29,22,1
+1-Jan-01,31-Dec-01,"Douglas, Shipley Terrace",2001,Cluster 38,31,20,1
+1-Jan-02,31-Dec-02,"Douglas, Shipley Terrace",2002,Cluster 38,35,21,1
+1-Jan-03,31-Dec-03,"Douglas, Shipley Terrace",2003,Cluster 38,36,20,1
+1-Jan-04,31-Dec-04,"Douglas, Shipley Terrace",2004,Cluster 38,34,15,1
+1-Jan-05,31-Dec-05,"Douglas, Shipley Terrace",2005,Cluster 38,34,20,1
+1-Jan-06,31-Dec-06,"Douglas, Shipley Terrace",2006,Cluster 38,34,20,1
+1-Jan-07,31-Dec-07,"Douglas, Shipley Terrace",2007,Cluster 38,41,21,1
+1-Jan-08,31-Dec-08,"Douglas, Shipley Terrace",2008,Cluster 38,40,18,1
+1-Jan-09,31-Dec-09,"Douglas, Shipley Terrace",2009,Cluster 38,39,20,1
+1-Jan-10,31-Dec-10,"Douglas, Shipley Terrace",2010,Cluster 38,41,23,1
+1-Jan-11,31-Dec-11,"Douglas, Shipley Terrace",2011,Cluster 38,33,17,1
+1-Jan-12,31-Dec-12,"Douglas, Shipley Terrace",2012,Cluster 38,35,20,1
+1-Jan-13,31-Dec-13,"Douglas, Shipley Terrace",2013,Cluster 38,39,19,1
+1-Jan-14,31-Dec-14,"Douglas, Shipley Terrace",2014,Cluster 38,36,17,1
+1-Jan-15,31-Dec-15,"Douglas, Shipley Terrace",2015,Cluster 38,37,17,1
+1-Jan-16,31-Dec-16,"Douglas, Shipley Terrace",2016,Cluster 38,35,17,1
+1-Jan-00,31-Dec-00,"Congress Heights, Bellevue, Washington Highlands",2000,Cluster 39,36,26,1
+1-Jan-01,31-Dec-01,"Congress Heights, Bellevue, Washington Highlands",2001,Cluster 39,42,25,1
+1-Jan-02,31-Dec-02,"Congress Heights, Bellevue, Washington Highlands",2002,Cluster 39,45,25,1
+1-Jan-03,31-Dec-03,"Congress Heights, Bellevue, Washington Highlands",2003,Cluster 39,42,26,1
+1-Jan-04,31-Dec-04,"Congress Heights, Bellevue, Washington Highlands",2004,Cluster 39,38,21,1
+1-Jan-05,31-Dec-05,"Congress Heights, Bellevue, Washington Highlands",2005,Cluster 39,37,21,1
+1-Jan-06,31-Dec-06,"Congress Heights, Bellevue, Washington Highlands",2006,Cluster 39,40,18,1
+1-Jan-07,31-Dec-07,"Congress Heights, Bellevue, Washington Highlands",2007,Cluster 39,50,23,1
+1-Jan-08,31-Dec-08,"Congress Heights, Bellevue, Washington Highlands",2008,Cluster 39,49,23,1
+1-Jan-09,31-Dec-09,"Congress Heights, Bellevue, Washington Highlands",2009,Cluster 39,47,22,1
+1-Jan-10,31-Dec-10,"Congress Heights, Bellevue, Washington Highlands",2010,Cluster 39,48,20,1
+1-Jan-11,31-Dec-11,"Congress Heights, Bellevue, Washington Highlands",2011,Cluster 39,41,22,1
+1-Jan-12,31-Dec-12,"Congress Heights, Bellevue, Washington Highlands",2012,Cluster 39,37,20,1
+1-Jan-13,31-Dec-13,"Congress Heights, Bellevue, Washington Highlands",2013,Cluster 39,40,20,1
+1-Jan-14,31-Dec-14,"Congress Heights, Bellevue, Washington Highlands",2014,Cluster 39,36,17,1
+1-Jan-15,31-Dec-15,"Congress Heights, Bellevue, Washington Highlands",2015,Cluster 39,33,17,1
+1-Jan-16,31-Dec-16,"Congress Heights, Bellevue, Washington Highlands",2016,Cluster 39,33,16,1
+1-Jan-00,31-Dec-00,Walter Reed,2000,Cluster 40,29,1.6,1
+1-Jan-01,31-Dec-01,Walter Reed,2001,Cluster 40,37,6.8,1
+1-Jan-02,31-Dec-02,Walter Reed,2002,Cluster 40,25,11,1
+1-Jan-03,31-Dec-03,Walter Reed,2003,Cluster 40,48,19,1
+1-Jan-04,31-Dec-04,Walter Reed,2004,Cluster 40,43,12,1
+1-Jan-05,31-Dec-05,Walter Reed,2005,Cluster 40,31,4.1,1
+1-Jan-06,31-Dec-06,Walter Reed,2006,Cluster 40,22,8.7,1
+1-Jan-07,31-Dec-07,Walter Reed,2007,Cluster 40,42,9.2,1
+1-Jan-08,31-Dec-08,Walter Reed,2008,Cluster 40,20,12,1
+1-Jan-09,31-Dec-09,Walter Reed,2009,Cluster 40,31,7.9,1
+1-Jan-10,31-Dec-10,Walter Reed,2010,Cluster 40,20,25,1
+1-Jan-11,31-Dec-11,Walter Reed,2011,Cluster 40,45,8.5,1
+1-Jan-12,31-Dec-12,Walter Reed,2012,Cluster 40,39,17,1
+1-Jan-13,31-Dec-13,Walter Reed,2013,Cluster 40,56,31,1
+1-Jan-14,31-Dec-14,Walter Reed,2014,Cluster 40,82,2.8,1
+1-Jan-15,31-Dec-15,Walter Reed,2015,Cluster 40,48,11,1
+1-Jan-16,31-Dec-16,Walter Reed,2016,Cluster 40,56,8.5,1
+1-Jan-00,31-Dec-00,Rock Creek Park,2000,Cluster 41,124,7.3,1
+1-Jan-01,31-Dec-01,Rock Creek Park,2001,Cluster 41,97,15,1
+1-Jan-02,31-Dec-02,Rock Creek Park,2002,Cluster 41,109,16,1
+1-Jan-03,31-Dec-03,Rock Creek Park,2003,Cluster 41,144,11,1
+1-Jan-04,31-Dec-04,Rock Creek Park,2004,Cluster 41,54,8,1
+1-Jan-05,31-Dec-05,Rock Creek Park,2005,Cluster 41,57,9,1
+1-Jan-06,31-Dec-06,Rock Creek Park,2006,Cluster 41,42,3.3,1
+1-Jan-07,31-Dec-07,Rock Creek Park,2007,Cluster 41,27,6,1
+1-Jan-08,31-Dec-08,Rock Creek Park,2008,Cluster 41,29,8.3,1
+1-Jan-09,31-Dec-09,Rock Creek Park,2009,Cluster 41,36,7.7,1
+1-Jan-10,31-Dec-10,Rock Creek Park,2010,Cluster 41,31,7.2,1
+1-Jan-11,31-Dec-11,Rock Creek Park,2011,Cluster 41,27,2.4,1
+1-Jan-12,31-Dec-12,Rock Creek Park,2012,Cluster 41,41,2.4,1
+1-Jan-13,31-Dec-13,Rock Creek Park,2013,Cluster 41,41,2.4,1
+1-Jan-14,31-Dec-14,Rock Creek Park,2014,Cluster 41,63,3.6,1
+1-Jan-15,31-Dec-15,Rock Creek Park,2015,Cluster 41,24,2.4,1
+1-Jan-16,31-Dec-16,Rock Creek Park,2016,Cluster 41,37,0,1
+1-Jan-00,31-Dec-00,Saint Elizabeths,2000,Cluster 43,25,21,1
+1-Jan-01,31-Dec-01,Saint Elizabeths,2001,Cluster 43,38,15,1
+1-Jan-02,31-Dec-02,Saint Elizabeths,2002,Cluster 43,22,11,1
+1-Jan-03,31-Dec-03,Saint Elizabeths,2003,Cluster 43,23,16,1
+1-Jan-04,31-Dec-04,Saint Elizabeths,2004,Cluster 43,16,17,1
+1-Jan-05,31-Dec-05,Saint Elizabeths,2005,Cluster 43,11,4.4,1
+1-Jan-06,31-Dec-06,Saint Elizabeths,2006,Cluster 43,17,19,1
+1-Jan-07,31-Dec-07,Saint Elizabeths,2007,Cluster 43,54,53,1
+1-Jan-08,31-Dec-08,Saint Elizabeths,2008,Cluster 43,79,37,1
+1-Jan-09,31-Dec-09,Saint Elizabeths,2009,Cluster 43,64,53,1
+1-Jan-10,31-Dec-10,Saint Elizabeths,2010,Cluster 43,50,30,1
+1-Jan-11,31-Dec-11,Saint Elizabeths,2011,Cluster 43,77,59,1
+1-Jan-12,31-Dec-12,Saint Elizabeths,2012,Cluster 43,54,40,1
+1-Jan-13,31-Dec-13,Saint Elizabeths,2013,Cluster 43,59,40,1
+1-Jan-14,31-Dec-14,Saint Elizabeths,2014,Cluster 43,64,40,1
+1-Jan-15,31-Dec-15,Saint Elizabeths,2015,Cluster 43,44,56,1
+1-Jan-16,31-Dec-16,Saint Elizabeths,2016,Cluster 43,52,33,1
+1-Jan-00,31-Dec-00,Joint Base Anacostia-Bolling,2000,Cluster 44,11,5.8,1
+1-Jan-01,31-Dec-01,Joint Base Anacostia-Bolling,2001,Cluster 44,10,4.3,1
+1-Jan-02,31-Dec-02,Joint Base Anacostia-Bolling,2002,Cluster 44,11,4.6,1
+1-Jan-03,31-Dec-03,Joint Base Anacostia-Bolling,2003,Cluster 44,13,4.1,1
+1-Jan-04,31-Dec-04,Joint Base Anacostia-Bolling,2004,Cluster 44,12,4.5,1
+1-Jan-05,31-Dec-05,Joint Base Anacostia-Bolling,2005,Cluster 44,15,5,1
+1-Jan-06,31-Dec-06,Joint Base Anacostia-Bolling,2006,Cluster 44,18,4.8,1
+1-Jan-07,31-Dec-07,Joint Base Anacostia-Bolling,2007,Cluster 44,11,3.2,1
+1-Jan-08,31-Dec-08,Joint Base Anacostia-Bolling,2008,Cluster 44,15,3.7,1
+1-Jan-09,31-Dec-09,Joint Base Anacostia-Bolling,2009,Cluster 44,11,3.5,1
+1-Jan-10,31-Dec-10,Joint Base Anacostia-Bolling,2010,Cluster 44,8.8,2.7,1
+1-Jan-11,31-Dec-11,Joint Base Anacostia-Bolling,2011,Cluster 44,15,3.2,1
+1-Jan-12,31-Dec-12,Joint Base Anacostia-Bolling,2012,Cluster 44,20,6.7,1
+1-Jan-13,31-Dec-13,Joint Base Anacostia-Bolling,2013,Cluster 44,14,7.2,1
+1-Jan-14,31-Dec-14,Joint Base Anacostia-Bolling,2014,Cluster 44,14,4.4,1
+1-Jan-15,31-Dec-15,Joint Base Anacostia-Bolling,2015,Cluster 44,15,4.6,1
+1-Jan-16,31-Dec-16,Joint Base Anacostia-Bolling,2016,Cluster 44,11,5.1,1
+1-Jan-00,31-Dec-00,"Arboretum, Anacostia River",2000,Cluster 46,.,.,1
+1-Jan-01,31-Dec-01,"Arboretum, Anacostia River",2001,Cluster 46,345,207,1
+1-Jan-02,31-Dec-02,"Arboretum, Anacostia River",2002,Cluster 46,155,241,1
+1-Jan-03,31-Dec-03,"Arboretum, Anacostia River",2003,Cluster 46,136,125,1
+1-Jan-04,31-Dec-04,"Arboretum, Anacostia River",2004,Cluster 46,85,51,1
+1-Jan-05,31-Dec-05,"Arboretum, Anacostia River",2005,Cluster 46,75,55,1
+1-Jan-06,31-Dec-06,"Arboretum, Anacostia River",2006,Cluster 46,69,11,1
+1-Jan-07,31-Dec-07,"Arboretum, Anacostia River",2007,Cluster 46,113,49,1
+1-Jan-08,31-Dec-08,"Arboretum, Anacostia River",2008,Cluster 46,38,30,1
+1-Jan-09,31-Dec-09,"Arboretum, Anacostia River",2009,Cluster 46,61,46,1
+1-Jan-10,31-Dec-10,"Arboretum, Anacostia River",2010,Cluster 46,144,34,1
+1-Jan-11,31-Dec-11,"Arboretum, Anacostia River",2011,Cluster 46,68,10,1
+1-Jan-12,31-Dec-12,"Arboretum, Anacostia River",2012,Cluster 46,6.8,10,1
+1-Jan-13,31-Dec-13,"Arboretum, Anacostia River",2013,Cluster 46,10,0,1
+1-Jan-14,31-Dec-14,"Arboretum, Anacostia River",2014,Cluster 46,27,3.4,1
+1-Jan-15,31-Dec-15,"Arboretum, Anacostia River",2015,Cluster 46,21,3.4,1
+1-Jan-16,31-Dec-16,"Arboretum, Anacostia River",2016,Cluster 46,10,0,1

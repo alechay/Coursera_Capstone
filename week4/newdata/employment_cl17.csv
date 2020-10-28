@@ -1,0 +1,133 @@
+timeframe,cluster2017,cluster2017_nf,start_date,end_date,PctUnemployed,Pct16andOverEmployed,PctUnemployed_m,Pct16andOverEmployed_m,indc
+2012-16,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1-Jan-12,31-Dec-16,4.2,80,1.6,3.5,1
+2012-16,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,1-Jan-12,31-Dec-16,6.8,73,1.2,2,1
+2012-16,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,1-Jan-12,31-Dec-16,5.8,68,2,3.7,1
+2012-16,"Georgetown, Burleith/Hillandale",Cluster 4,1-Jan-12,31-Dec-16,4.4,61,2,4.1,1
+2012-16,"West End, Foggy Bottom, GWU",Cluster 5,1-Jan-12,31-Dec-16,4.6,56,2,3.9,1
+2012-16,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,1-Jan-12,31-Dec-16,2.8,81,1.3,3.6,1
+2012-16,"Shaw, Logan Circle",Cluster 7,1-Jan-12,31-Dec-16,3.6,81,1.4,3.7,1
+2012-16,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,1-Jan-12,31-Dec-16,6.1,72,1.8,2.9,1
+2012-16,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,1-Jan-12,31-Dec-16,6.9,68,2.4,4.5,1
+2012-16,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,1-Jan-12,31-Dec-16,3.7,65,2.1,3.5,1
+2012-16,"Friendship Heights, American University Park, Tenleytown",Cluster 11,1-Jan-12,31-Dec-16,2,67,2,4.1,1
+2012-16,"North Cleveland Park, Forest Hills, Van Ness",Cluster 12,1-Jan-12,31-Dec-16,2.5,78,1.9,5.2,1
+2012-16,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",Cluster 13,1-Jan-12,31-Dec-16,6.4,55,2.8,2.9,1
+2012-16,"Cathedral Heights, McLean Gardens, Glover Park",Cluster 14,1-Jan-12,31-Dec-16,4.2,69,2,3.6,1
+2012-16,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",Cluster 15,1-Jan-12,31-Dec-16,2.1,77,1.4,4.5,1
+2012-16,"Colonial Village, Shepherd Park, North Portal Estates",Cluster 16,1-Jan-12,31-Dec-16,6.9,63,3.5,5.6,1
+2012-16,"Takoma, Brightwood, Manor Park",Cluster 17,1-Jan-12,31-Dec-16,8.2,63,2,2.9,1
+2012-16,"Brightwood Park, Crestwood, Petworth",Cluster 18,1-Jan-12,31-Dec-16,7.5,66,1.5,2.2,1
+2012-16,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",Cluster 19,1-Jan-12,31-Dec-16,12,57,2.8,3.7,1
+2012-16,"North Michigan Park, Michigan Park, University Heights",Cluster 20,1-Jan-12,31-Dec-16,11,53,3.2,4.1,1
+2012-16,"Edgewood, Bloomingdale, Truxton Circle, Eckington",Cluster 21,1-Jan-12,31-Dec-16,8.3,66,1.8,2.1,1
+2012-16,"Brookland, Brentwood, Langdon",Cluster 22,1-Jan-12,31-Dec-16,15,54,3.7,3.3,1
+2012-16,"Ivy City, Arboretum, Trinidad, Carver Langston",Cluster 23,1-Jan-12,31-Dec-16,14,53,2.9,3.2,1
+2012-16,"Woodridge, Fort Lincoln, Gateway",Cluster 24,1-Jan-12,31-Dec-16,13,49,4.9,4.3,1
+2012-16,"Union Station, Stanton Park, Kingman Park",Cluster 25,1-Jan-12,31-Dec-16,6,74,1.4,2.2,1
+2012-16,"Capitol Hill, Lincoln Park",Cluster 26,1-Jan-12,31-Dec-16,5.6,66,1.6,2.3,1
+2012-16,"Near Southeast, Navy Yard",Cluster 27,1-Jan-12,31-Dec-16,5.1,82,3,6.4,1
+2012-16,Historic Anacostia,Cluster 28,1-Jan-12,31-Dec-16,19,43,6.1,5.5,1
+2012-16,"Eastland Gardens, Kenilworth",Cluster 29,1-Jan-12,31-Dec-16,30,38,9.6,7.8,1
+2012-16,"Mayfair, Hillbrook, Mahaning Heights",Cluster 30,1-Jan-12,31-Dec-16,19,49,5.5,6,1
+2012-16,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",Cluster 31,1-Jan-12,31-Dec-16,19,50,3.7,4,1
+2012-16,"River Terrace, Benning, Greenway, Dupont Park",Cluster 32,1-Jan-12,31-Dec-16,22,45,4.7,4.3,1
+2012-16,"Capitol View, Marshall Heights, Benning Heights",Cluster 33,1-Jan-12,31-Dec-16,19,49,3.2,3.1,1
+2012-16,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",Cluster 34,1-Jan-12,31-Dec-16,16,53,2.9,3.3,1
+2012-16,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",Cluster 35,1-Jan-12,31-Dec-16,11,54,5.6,6.7,1
+2012-16,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",Cluster 36,1-Jan-12,31-Dec-16,27,32,6.6,4.5,1
+2012-16,"Sheridan, Barry Farm, Buena Vista",Cluster 37,1-Jan-12,31-Dec-16,13,47,4.5,5,1
+2012-16,"Douglas, Shipley Terrace",Cluster 38,1-Jan-12,31-Dec-16,18,46,4.5,4.4,1
+2012-16,"Congress Heights, Bellevue, Washington Highlands",Cluster 39,1-Jan-12,31-Dec-16,28,43,3.1,2.2,1
+2012-16,Walter Reed,Cluster 40,1-Jan-12,31-Dec-16,13,57,21,21,1
+2012-16,Rock Creek Park,Cluster 41,1-Jan-12,31-Dec-16,5,68,7,15,1
+2012-16,Saint Elizabeths,Cluster 43,1-Jan-12,31-Dec-16,24,42,20,15,1
+2012-16,Joint Base Anacostia-Bolling,Cluster 44,1-Jan-12,31-Dec-16,13,66,6.9,4.5,1
+2012-16,"Arboretum, Anacostia River",Cluster 46,1-Jan-12,31-Dec-16,16,47,22,20,1
+2000,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1-Jan-00,31-Dec-00,2.7,79,.,.,1
+2000,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,1-Jan-00,31-Dec-00,9.7,58,.,.,1
+2000,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,1-Jan-00,31-Dec-00,8.9,53,.,.,1
+2000,"Georgetown, Burleith/Hillandale",Cluster 4,1-Jan-00,31-Dec-00,2.1,65,.,.,1
+2000,"West End, Foggy Bottom, GWU",Cluster 5,1-Jan-00,31-Dec-00,27,50,.,.,1
+2000,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,1-Jan-00,31-Dec-00,2.8,81,.,.,1
+2000,"Shaw, Logan Circle",Cluster 7,1-Jan-00,31-Dec-00,8.6,63,.,.,1
+2000,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,1-Jan-00,31-Dec-00,16,50,.,.,1
+2000,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,1-Jan-00,31-Dec-00,9.3,58,.,.,1
+2000,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,1-Jan-00,31-Dec-00,2.3,61,.,.,1
+2000,"Friendship Heights, American University Park, Tenleytown",Cluster 11,1-Jan-00,31-Dec-00,2.2,73,.,.,1
+2000,"North Cleveland Park, Forest Hills, Van Ness",Cluster 12,1-Jan-00,31-Dec-00,1.5,75,.,.,1
+2000,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",Cluster 13,1-Jan-00,31-Dec-00,34,50,.,.,1
+2000,"Cathedral Heights, McLean Gardens, Glover Park",Cluster 14,1-Jan-00,31-Dec-00,5.7,67,.,.,1
+2000,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",Cluster 15,1-Jan-00,31-Dec-00,1.8,72,.,.,1
+2000,"Colonial Village, Shepherd Park, North Portal Estates",Cluster 16,1-Jan-00,31-Dec-00,3.9,63,.,.,1
+2000,"Takoma, Brightwood, Manor Park",Cluster 17,1-Jan-00,31-Dec-00,7.1,58,.,.,1
+2000,"Brightwood Park, Crestwood, Petworth",Cluster 18,1-Jan-00,31-Dec-00,7.8,54,.,.,1
+2000,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",Cluster 19,1-Jan-00,31-Dec-00,16,50,.,.,1
+2000,"North Michigan Park, Michigan Park, University Heights",Cluster 20,1-Jan-00,31-Dec-00,14,50,.,.,1
+2000,"Edgewood, Bloomingdale, Truxton Circle, Eckington",Cluster 21,1-Jan-00,31-Dec-00,14,49,.,.,1
+2000,"Brookland, Brentwood, Langdon",Cluster 22,1-Jan-00,31-Dec-00,12,48,.,.,1
+2000,"Ivy City, Arboretum, Trinidad, Carver Langston",Cluster 23,1-Jan-00,31-Dec-00,18,43,.,.,1
+2000,"Woodridge, Fort Lincoln, Gateway",Cluster 24,1-Jan-00,31-Dec-00,11,44,.,.,1
+2000,"Union Station, Stanton Park, Kingman Park",Cluster 25,1-Jan-00,31-Dec-00,11,58,.,.,1
+2000,"Capitol Hill, Lincoln Park",Cluster 26,1-Jan-00,31-Dec-00,5.5,64,.,.,1
+2000,"Near Southeast, Navy Yard",Cluster 27,1-Jan-00,31-Dec-00,33,24,.,.,1
+2000,Historic Anacostia,Cluster 28,1-Jan-00,31-Dec-00,22,45,.,.,1
+2000,"Eastland Gardens, Kenilworth",Cluster 29,1-Jan-00,31-Dec-00,21,44,.,.,1
+2000,"Mayfair, Hillbrook, Mahaning Heights",Cluster 30,1-Jan-00,31-Dec-00,14,46,.,.,1
+2000,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",Cluster 31,1-Jan-00,31-Dec-00,16,38,.,.,1
+2000,"River Terrace, Benning, Greenway, Dupont Park",Cluster 32,1-Jan-00,31-Dec-00,13,47,.,.,1
+2000,"Capitol View, Marshall Heights, Benning Heights",Cluster 33,1-Jan-00,31-Dec-00,18,43,.,.,1
+2000,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",Cluster 34,1-Jan-00,31-Dec-00,12,52,.,.,1
+2000,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",Cluster 35,1-Jan-00,31-Dec-00,8.4,57,.,.,1
+2000,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",Cluster 36,1-Jan-00,31-Dec-00,22,41,.,.,1
+2000,"Sheridan, Barry Farm, Buena Vista",Cluster 37,1-Jan-00,31-Dec-00,26,39,.,.,1
+2000,"Douglas, Shipley Terrace",Cluster 38,1-Jan-00,31-Dec-00,26,38,.,.,1
+2000,"Congress Heights, Bellevue, Washington Highlands",Cluster 39,1-Jan-00,31-Dec-00,20,45,.,.,1
+2000,Walter Reed,Cluster 40,1-Jan-00,31-Dec-00,0,92,.,.,1
+2000,Rock Creek Park,Cluster 41,1-Jan-00,31-Dec-00,6.1,59,.,.,1
+2000,Saint Elizabeths,Cluster 43,1-Jan-00,31-Dec-00,56,19,.,.,1
+2000,Joint Base Anacostia-Bolling,Cluster 44,1-Jan-00,31-Dec-00,20,68,.,.,1
+2000,"Arboretum, Anacostia River",Cluster 46,1-Jan-00,31-Dec-00,i,i,.,.,1
+1990,"Kalorama Heights, Adams Morgan, Lanier Heights",Cluster 1,1-Jan-90,31-Dec-90,3.6,78,.,.,1
+1990,"Columbia Heights, Mt. Pleasant, Pleasant Plains, Park View",Cluster 2,1-Jan-90,31-Dec-90,8.6,60,.,.,1
+1990,"Howard University, Le Droit Park, Cardozo/Shaw",Cluster 3,1-Jan-90,31-Dec-90,9.3,49,.,.,1
+1990,"Georgetown, Burleith/Hillandale",Cluster 4,1-Jan-90,31-Dec-90,2.1,67,.,.,1
+1990,"West End, Foggy Bottom, GWU",Cluster 5,1-Jan-90,31-Dec-90,4.3,60,.,.,1
+1990,"Dupont Circle, Connecticut Avenue/K Street",Cluster 6,1-Jan-90,31-Dec-90,3.2,81,.,.,1
+1990,"Shaw, Logan Circle",Cluster 7,1-Jan-90,31-Dec-90,9.8,63,.,.,1
+1990,"Downtown, Chinatown, Penn Quarters, Mount Vernon Square, North Capitol Street",Cluster 8,1-Jan-90,31-Dec-90,14,48,.,.,1
+1990,"Southwest Employment Area, Southwest/Waterfront, Fort McNair, Buzzard Point",Cluster 9,1-Jan-90,31-Dec-90,8.6,68,.,.,1
+1990,"Hawthorne, Barnaby Woods, Chevy Chase",Cluster 10,1-Jan-90,31-Dec-90,2.6,65,.,.,1
+1990,"Friendship Heights, American University Park, Tenleytown",Cluster 11,1-Jan-90,31-Dec-90,2.8,69,.,.,1
+1990,"North Cleveland Park, Forest Hills, Van Ness",Cluster 12,1-Jan-90,31-Dec-90,1.6,72,.,.,1
+1990,"Spring Valley, Palisades, Wesley Heights, Foxhall Crescent, Foxhall Village, Georgetown Reservoir",Cluster 13,1-Jan-90,31-Dec-90,2.1,65,.,.,1
+1990,"Cathedral Heights, McLean Gardens, Glover Park",Cluster 14,1-Jan-90,31-Dec-90,2.8,69,.,.,1
+1990,"Cleveland Park, Woodley Park, Massachusetts Avenue Heights, Woodland-Normanstone Terrace",Cluster 15,1-Jan-90,31-Dec-90,2.2,72,.,.,1
+1990,"Colonial Village, Shepherd Park, North Portal Estates",Cluster 16,1-Jan-90,31-Dec-90,3.8,66,.,.,1
+1990,"Takoma, Brightwood, Manor Park",Cluster 17,1-Jan-90,31-Dec-90,6,64,.,.,1
+1990,"Brightwood Park, Crestwood, Petworth",Cluster 18,1-Jan-90,31-Dec-90,7.6,61,.,.,1
+1990,"Lamont Riggs, Queens Chapel, Fort Totten, Pleasant Hill",Cluster 19,1-Jan-90,31-Dec-90,6.6,59,.,.,1
+1990,"North Michigan Park, Michigan Park, University Heights",Cluster 20,1-Jan-90,31-Dec-90,5.9,61,.,.,1
+1990,"Edgewood, Bloomingdale, Truxton Circle, Eckington",Cluster 21,1-Jan-90,31-Dec-90,11,49,.,.,1
+1990,"Brookland, Brentwood, Langdon",Cluster 22,1-Jan-90,31-Dec-90,9.5,54,.,.,1
+1990,"Ivy City, Arboretum, Trinidad, Carver Langston",Cluster 23,1-Jan-90,31-Dec-90,10,53,.,.,1
+1990,"Woodridge, Fort Lincoln, Gateway",Cluster 24,1-Jan-90,31-Dec-90,9,51,.,.,1
+1990,"Union Station, Stanton Park, Kingman Park",Cluster 25,1-Jan-90,31-Dec-90,9,63,.,.,1
+1990,"Capitol Hill, Lincoln Park",Cluster 26,1-Jan-90,31-Dec-90,5.1,64,.,.,1
+1990,"Near Southeast, Navy Yard",Cluster 27,1-Jan-90,31-Dec-90,21,47,.,.,1
+1990,Historic Anacostia,Cluster 28,1-Jan-90,31-Dec-90,14,51,.,.,1
+1990,"Eastland Gardens, Kenilworth",Cluster 29,1-Jan-90,31-Dec-90,8.8,57,.,.,1
+1990,"Mayfair, Hillbrook, Mahaning Heights",Cluster 30,1-Jan-90,31-Dec-90,9.4,54,.,.,1
+1990,"Deanwood, Burrville, Grant Park, Lincoln Heights, Fairmont Heights",Cluster 31,1-Jan-90,31-Dec-90,11,51,.,.,1
+1990,"River Terrace, Benning, Greenway, Dupont Park",Cluster 32,1-Jan-90,31-Dec-90,7.5,59,.,.,1
+1990,"Capitol View, Marshall Heights, Benning Heights",Cluster 33,1-Jan-90,31-Dec-90,11,54,.,.,1
+1990,"Twining, Fairlawn, Randle Highlands, Penn Branch, Fort Davis Park, Fort Dupont",Cluster 34,1-Jan-90,31-Dec-90,6.3,65,.,.,1
+1990,"Fairfax Village, Naylor Gardens, Hillcrest, Summit Park",Cluster 35,1-Jan-90,31-Dec-90,3,68,.,.,1
+1990,"Woodland/Fort Stanton, Garfield Heights, Knox Hill",Cluster 36,1-Jan-90,31-Dec-90,15,44,.,.,1
+1990,"Sheridan, Barry Farm, Buena Vista",Cluster 37,1-Jan-90,31-Dec-90,14,53,.,.,1
+1990,"Douglas, Shipley Terrace",Cluster 38,1-Jan-90,31-Dec-90,16,52,.,.,1
+1990,"Congress Heights, Bellevue, Washington Highlands",Cluster 39,1-Jan-90,31-Dec-90,12,59,.,.,1
+1990,Walter Reed,Cluster 40,1-Jan-90,31-Dec-90,0,100,.,.,1
+1990,Rock Creek Park,Cluster 41,1-Jan-90,31-Dec-90,3.5,68,.,.,1
+1990,Saint Elizabeths,Cluster 43,1-Jan-90,31-Dec-90,26,8.3,.,.,1
+1990,Joint Base Anacostia-Bolling,Cluster 44,1-Jan-90,31-Dec-90,9.9,74,.,.,1
+1990,"Arboretum, Anacostia River",Cluster 46,1-Jan-90,31-Dec-90,i,i,.,.,1
