@@ -1,5 +1,5 @@
 # Capstone Project: Comparing Neighborhoods in Washington, DC
-Alexander Hay
+Alexander Hay <br>
 October 2020
 
 ## 1. Introduction/ Business Problem
@@ -16,25 +16,25 @@ To reiterate, this project has 3 main goals:
 3. To create a model, based on those features, that predicts housing prices.
 
 ## 2. Data
-To gather location data for the neighborhood clusters, I used Open Data DC. The geojson file included the shape and area of all 39 clusters. 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+To gather location data for the neighborhood clusters, I used Open Data DC. The geojson file included the shape and area of all 39 clusters. <br> 
+![alt text](https://github.com/alechay/Coursera_Capstone/blob/main/week4/images/geo.png) <br>
 Link: [Open Data DC](https://opendata.dc.gov/datasets/f6c703ebe2534fc3800609a07bad8f5b_17)
 
-To gather demographic data for the neighborhood clusters, I used data from Urban-Greater DC. The various csv files included information about crime, income, employment, population, and housing for all 39 clusters. For each file, I took the most recent data. I was able to get data from 2016 for crime, income, employment, and population, however I could only get data from 2010 for housing. I realize that this is a discrepancy and it could affect the results, but it is unlikely that the relative differences between housing prices across neighborhoods changed significantly from 2010 to 2016.
+To gather demographic data for the neighborhood clusters, I used data from Urban-Greater DC. The various csv files included information about crime, income, employment, population, and housing for all 39 clusters. For each file, I took the most recent data. I was able to get data from 2016 for crime, income, employment, and population, however I could only get data from 2010 for housing. I realize that this is a discrepancy and it could affect the results, but it is unlikely that the relative differences between housing prices across neighborhoods changed significantly from 2010 to 2016. <br>
 Crime:<br>
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/alechay/Coursera_Capstone/blob/main/week4/images/crime.png) <br>
 Income:<br>
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/alechay/Coursera_Capstone/blob/main/week4/images/income.png) <br>
 Employment:<br>
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/alechay/Coursera_Capstone/blob/main/week4/images/employment.png) <br>
 Population: <br>
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/alechay/Coursera_Capstone/blob/main/week4/images/population.png) <br>
 Housing: <br>
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/alechay/Coursera_Capstone/blob/main/week4/images/population.png) <br>
 Link: [Urban-Greater DC](https://greaterdc.urban.org/data-explorer?geography=cl17)
 
-To gather nearby venue data in each of the clusters, I used the Foursquare API. Foursquare provides location data for venues and events. After I found the centroid of all the neighborhood clusters, I searched Foursquare to find restaurants within 250 meters of that point. Below is a map showing the restaurants in each cluster.
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+To gather nearby venue data in each of the clusters, I used the Foursquare API. Foursquare provides location data for venues and events. After I found the centroid of all the neighborhood clusters, I searched Foursquare to find restaurants within 250 meters of that point. Below is a map showing the restaurants in each cluster. <br>
+![alt text](https://github.com/alechay/Coursera_Capstone/blob/main/week4/images/restaurants.png)
 
 ## Sources
 - Open Data DC: Geojson data
