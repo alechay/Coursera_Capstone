@@ -8,7 +8,7 @@ Source: Open Data DC
 
 It would be useful for city officials to group these clusters based on their characteristics. This would allow officials to identify inequities between the clusters, and allocate resources to different parts of the city more efficiently. Therefore, my first goal was to "cluster" these neighborhood clusters based on their number of restaurants, and on their crime, income, employment, population, and housing data.
 
-Additonally, it would be useful for real estate developers to understand which neighborhood characteristics have the greatest effect on housing prices. Therefore, my second goal was to identify the features (number of restaurants, crime, income, employment, population) that are most correlated with housing prices. And, to go one step further, my third goal was to create a model, based on those features, that predicts housing prices.
+Additionally, it would be useful for real estate developers to understand which neighborhood characteristics have the greatest effect on housing prices. Therefore, my second goal was to identify the features (number of restaurants, crime, income, employment, population) that are most correlated with housing prices. And, to go one step further, my third goal was to create a model, based on those features, that predicts housing prices.
 
 To reiterate, this project has 3 main goals:
 1. To "cluster" these neighborhood clusters based on their number of restaurants, and on their crime, income, employment, population, and housing data.
@@ -47,7 +47,7 @@ I normalized the data using the sklearn.preprocessing.scale() function. This "ce
 Source: sklearn documentation.
 
 ### Identifying features most correlated with housing prices
-First, I split the data into the features and labels. The features consisted of property crimes per 1000 residents, violent crimes per 1000 residents, average family income, percentage unemployed, and total populational. The labels were the median sales price of a single family home.
+First, I split the data into the features and labels. The features consisted of property crimes per 1000 residents, violent crimes per 1000 residents, average family income, percentage unemployed, and total population. The labels were the median sales price of a single family home.
 
 I then examined the distribution of each of the features and the labels. Most features were not normally distributed, and neither were the labels. This could have affected the results. <br>
 ![alt text](https://github.com/alechay/Coursera_Capstone/blob/main/week5/images/restaurants_dist.png)
